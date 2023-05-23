@@ -20,7 +20,8 @@ for link in city_links:
     city_id = re.search(r'cID=([^"]+)', href).group(1)
     city_name = link.text.strip()
     city_info = {'id': city_id, 'name': city_name}
-    cities.append(city_info)
+    if city_name != 'TANIMSIZ':
+        cities.append(city_info)
 
 for city in cities:
     print(f"ID: {city['id']}, Şehir: {city['name']}")
@@ -32,19 +33,46 @@ c = conn.cursor()
 # delete table
 # c.execute('''DROP TABLE city''')
 
-# create a table
-# c.execute('''CREATE TABLE city(cityID TEXT, cityName TEXT)''')
+# create a table if it doesn't exist
+c.execute('''CREATE TABLE IF NOT EXISTS city(cityID TEXT PRIMARY KEY, cityName TEXT, population TEXT, universityCount TEXT)''')
 
-# data to insert
-# cityName = 'Istanbul'
-# cityID= 'LjCs0fmetYY'
-
-# insert and commit to database
 for city in cities:
-    print(f"ID: {city['id']}, Şehir: {city['name']}")
-    c.execute('''INSERT INTO city VALUES(?,?)''', (city['id'], city['name']))
+    c.execute('''INSERT INTO city VALUES(?,?,?,?)''',
+              (city['id'], city['name'], '0', '0'))
     conn.commit()
 
+
+for city in cities:
+    city_id = city['id']
+    city_url = f"https://www.studyinturkiye.gov.tr/StudyinTurkey/CityDetail?cID={city_id}"
+    res = requests.get(city_url, headers=headers)
+    soup = BeautifulSoup(res.content, 'html.parser')
+
+    # Bilgileri ayrıştır
+    # Örnek olarak şehir nüfusunu ayrıştırıyoruz
+    city_population = soup.find('div', class_='okul-info-tablo').find(
+        'div', class_='city-info-satir').find('div', class_='city-info-sayi').text.strip()
+
+    university_count = None
+
+    city_info_div = soup.find('div', class_='okul-info-tablo')
+    if city_info_div:
+        city_info_rows = city_info_div.find_all(
+            'div', class_='city-info-satir')
+        for row in city_info_rows:
+            if 'Universities:' in row.text:
+                university_count = row.find_next(
+                    'div', class_='city-info-sayi').text.strip()
+                break
+    if university_count:
+        print(f"Universities: {university_count}")
+    else:
+        print("Universities count not found.")
+
+    # Veritabanına bilgileri ekle
+    c.execute('''UPDATE city SET population = ?, universityCount = ? WHERE cityID = ?''',
+              (city_population, university_count, city_id))
+    conn.commit()
 
 # select all data from table and print
 c.execute('''SELECT * FROM city''')
