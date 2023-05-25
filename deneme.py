@@ -2,9 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import mysql.connector
 import sqlite3
+import os
 
 
-
+"""
 # Web sayfasını indirin
 url = "https://yokatlas.yok.gov.tr/lisans-anasayfa.php"
 response = requests.get(url)
@@ -25,7 +26,7 @@ for option in option_elements:
     
 
 
-"""  # İlgili verileri çekin
+  # İlgili verileri çekin
 uni_list_items = soup.find_all("div", class_="uniListItem")
 
 
@@ -38,9 +39,30 @@ for uni_list_item in uni_list_items:
 
     print( "'",baslik,"','",sehir,"','",tur,"'),") """
 
-    
+#yök sitesinden her üniversitede olan bölüm bilgilerini çekmek için gereken kod 
+#url = 'https://yokatlas.yok.gov.tr/lisans-anasayfa.php'  # Seçim öğesinin bulunduğu sayfanın URL'sini buraya girin
 
 
-    
-    
+base_url = 'https://yokatlas.yok.gov.tr/lisans-univ.php?u='
+with open("output.txt", "w", encoding="utf-8") as file:
+    # URL'leri gezin ve içeriği kazıyın
+    for pageNo in range(1001,2105):
+        url = base_url + str(pageNo)
+        response = requests.get(url)
+        html_content = response.text
+        
+        soup = BeautifulSoup(html_content, 'html.parser')
+        div_elements = soup.find_all('div', class_='panel-heading')
+        if div_elements is not None:
+            # İçerikleri ekrana yazdırın
+            for div in div_elements:
+                text = div.text.strip().splitlines()
+                text=text[0]
+            
+                file.write(f"({pageNo},'{text}'),\n")
+            
+        else:
+            continue
+
+
 
