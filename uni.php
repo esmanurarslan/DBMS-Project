@@ -35,10 +35,24 @@ $result = $stmt->get_result();
 
     if($result->num_rows>0)
     {
+        ?>
+        <table class="table table-striped">
+        <tr>
+            <th>Üniversite Adı</th>
+        </tr>
+    
+
+    <?php
         while ($row = $result->fetch_assoc()) {
-        $name = $row['name'];
-        echo  $name."<br>" ;
-        // İşlemleriniz
+            $name = $row['name'];
+            ?>
+            <tr>
+                <td><?=$name?></td>
+            </tr>
+
+
+        <?php
+        
         }
     }
     else
@@ -47,41 +61,6 @@ $result = $stmt->get_result();
     }
 
 $stmt->close();
-
-/*$sql = "SELECT name FROM uni WHERE location = '$location' COLLATE utf8_general_ci";
-$stmt = $conn->prepare($sql);
-$stmt->bind_param("s", $location);
-$stmt->execute();
-$result = $stmt->get_result();
-
-  if($result->num_rows>0)
-{
-    ?>
-    <table class="table table-striped">
-        <tr>
-            <th>Üniversite Adı</th>
-        </tr>
-    
-
-    <?php
-    while($record=$result->fetch_assoc()){
-        ?>
-            <tr>
-                <td><?=$record["name"]?></td>
-            </tr>
-
-
-        <?php
-    }
-    ?>
-    </table>
-    <?php
-    
-}
-else
-{
-    echo "There is no available data";
-}*/
 
 ?>
 </body>
