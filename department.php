@@ -27,9 +27,8 @@ if ($conn->connect_error) {
     die("Veritabanına bağlanılamadı: " . $conn->connect_error);
 }
 
-$stmt = $conn->prepare("SELECT name FROM uni WHERE location LIKE ?");
-$searchTerm = '%'.$location.'%';
-$stmt->bind_param("s", $searchTerm);
+$stmt = $conn->prepare("SELECT depName FROM department WHERE uniName='%$name%' ");
+
 $stmt->execute();
 $result = $stmt->get_result();
 
@@ -38,16 +37,16 @@ $result = $stmt->get_result();
         ?>
         <table class="table table-striped">
         <tr>
-            <th>Üniversite Adı</th>
+            <th>Bölümler</th>
         </tr>
     
 
     <?php
         while ($row = $result->fetch_assoc()) {
-            $name = $row['name'];
+            $name = $row['depName'];
             ?>
             <tr>
-                <td><?=$name?> <button onclick="department.php">Bölümler</button></td>
+                <td ><?=$name?> <button onclick="window.location.href='department.php'">Bölümler</button></td>
             </tr>
 
 
