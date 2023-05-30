@@ -1,0 +1,1183 @@
+41876, PROFESÖR, ABDULKADİR ÖZDEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/BİLİŞİM TEKNOLOJİLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Bilişim Sistemleri ; Veri Yönetimi ; Teknoloji ve Yenilik Yönetimi, a.ozdemir[at]bandirma.edu.tr, 2989D9B4B7FFFB49
+
+40127, PROFESÖR, AHMET AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSADİ GELİŞME VE ULUSLARARASI İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İktisat, Bölgesel İktisat ; Uluslararası Ticaret, BAC73F16437BC766
+
+48321, PROFESÖR, AHMET NİYAZİ ÖZKER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Mali İktisat ; Kamu Ekonomisi ; Maliye Kuramı, niyaziozker[at]yahoo.com, E1893FC5CFCFFD79
+
+33383, PROFESÖR, ALİ OSMAN ÖZTÜRK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Kamu Yönetimi, Katılım ve Yönetişim ; Stratejik Yönetim, aoozturk[at]hitit.edu.tr, CE9426DBB741B1BB
+
+29013, PROFESÖR, ALPASLAN SEREL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Para Politikası ; Para-Banka, D58A92C6252D4137
+
+150648, PROFESÖR, ALPER KILIÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Gemi Makineleri İşletme Mühendisliği ; Gemi Ana ve Yardımcı Makineleri ; Gemilerde Enerji Verimliliği, alperkilic[at]bandirma.edu.tr, CFDB01077C3ACC34
+
+37711, PROFESÖR, AYBENİZ AKDENİZ AR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/ÜRETİM YÖNETİMİ VE PAZARLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Ürün ve Marka Yönetimi ; Uluslararası Pazarlama ; Tüketici Davranışları, aar[at]bandirma.edu.tr, B403BD381F770231
+
+219458, PROFESÖR, AYŞE GÜLDEM KİLCİLER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/İÇ HASTALIKLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Tıp Eğitimi, akilciler[at]bandirma.edu.tr, 81D65CE1E895426C
+
+31307, PROFESÖR, BURAK DARICI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Para Politikası ; Para-Banka ; İstihdam, bdarici[at]bandirma.edu.tr, 05C5033673375324
+
+219300, PROFESÖR, BURÇİN BOZDOĞANOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ HUKUK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Mali Hukuk ; Kamu Maliyesi ; Maliye Kuramı, bbozdoganoglu[at]bandirma.edu.tr, 449457B407DDE0E1
+
+40729, PROFESÖR, BÜNYAMİN SÖĞÜT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/GIDA TEKNOLOJİSİ PR./, Ziraat ve Orman ve Su Ürünleri Temel Alanı, Zootekni, Kanatlı Hayvan Yetiştirme ve Islahı ; Hayvansal Biyoteknoloji ; Biyometri ve Genetik, bunyaminsogut[at]hotmail.com, D3C3C52900B4B37B
+
+43846, PROFESÖR, CELALETTİN YANIK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/SOSYAL POLİTİKA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Siyaset Sosyolojisi ; Çalışma Sosyolojisi ; Sosyal Hareketler, celalettinyanik[at]hotmail.com, CC5E777CD4EEACD8
+
+20258, PROFESÖR, CÜNEYT AKAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/SAYISAL YÖNTEMLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, İstatistiksel Analiz Ve Uygulamalar ; Yöneylem Araştırması ; Zaman Serileri Analizi, cakar[at]bandirma.edu.tr, C5A2638BFBE9B4D9
+
+116560, PROFESÖR, DİLEK AVCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/RUH SAĞLIĞI VE PSİKİYATRİ HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Psikiyatri Hemşireliği, daydinenator[at]gmail.com, 3AB07EBEF7BCB25A
+
+32496, PROFESÖR, DİLER YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/ÇOCUK SAĞLIĞI VE HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Çocuk Sağlığı ve Hastalıkları Hemşireliği, dileraydin[at]gmail.com, 606A99C17F4B1225
+
+3267, PROFESÖR, EDİP ÖRÜCÜ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/YÖNETİM VE ORGANİZASYON ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, İnsan Kaynakları Yönetimi ; Örgütsel Davranış ; Stratejik Yönetim, eorucu[at]bandirma.edu.tr, C80EBE45136E3D49
+
+175096, PROFESÖR, FATİH YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/ENDÜSTRİ İLİŞKİLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, İşçi Sağlığı ve İş Güvenliği ; Çalışma Ekonomisi ve Endüstri İlişkileri, fatihyilmaz[at]bandirma.edu.tr, 191A5557C3F82048
+
+12026, PROFESÖR, FEYZULLAH TEMURTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/KONTROL VE KUMANDA SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektronik ; Yapay Zeka ; Kontrol Teorisi ve Uygulamaları, ftemurtas[at]bandirma.edu.tr, 2E0058BA1EFC8F6E
+
+42067, PROFESÖR, GÖKHAN ORHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/KENTLEŞME VE ÇEVRE SORUNLARI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yerel Yönetimler, Kent ve Çevre Politikaları, Çevre Yönetimi  ; Politik Ekoloji ; Yerel Yönetimler, gorhan[at]bandirma.edu.tr, 36B8E173DAD9E705
+
+126768, PROFESÖR, HARUN YENİÇERİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ HUKUK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Mali Hukuk ; Kamu Maliyesi, hyeniceri[at]bandirma.edu.tr, FA4B533BA7D28C4F
+
+31647, PROFESÖR, HASAN AYDIN OKUYAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/MUHASEBE VE FİNANSMAN ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Finansal Piyasalar ve Kurumlar   ; Yatırımlar ve Portföy Yönetimi ; Uluslararası Finans, hokuyan[at]bandirma.edu.tr, B7C3F42C63A3FC3D
+
+50040, PROFESÖR, HAYRETTİN TEKÜMİT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/KALP VE DAMAR CERRAHİSİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Kalp ve Damar Cerrahisi, htekumit[at]bandirma.edu.tr, 0CDEAA288941BC59
+
+44176, PROFESÖR, HÜSEYİN ESECELİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/BESLENME BİLİMLERİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Hayvan Besleme ve Beslenme Hastalıkları, heseceli[at]bandirma.edu.tr, 10A2F38AE54DD6A2
+
+14959, PROFESÖR, İBRAHİM ARPACI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgi Sistemleri ; Bilgisayar Sistem Yazılımı ; İnsan-Bilgisayar Etkileşimi, iarpaci[at]bandirma.edu.tr, 8AD5293864582EFC
+
+26474, PROFESÖR, İBRAHİM TÜMEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/ORTOPEDİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Ziraat ve Orman ve Su Ürünleri Temel Alanı, Orman Endüstri Mühendisliği, Orman Ürünleri Kimyası ; Odun Dışı Orman Ürünleri Endüstrisi, tuemen_t[at]yahoo.com, D8E81DA024E2A0F0
+
+40199, PROFESÖR, İSMAİL ŞAHİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/SİYASİ TARİH ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyasi Tarih, Türk Dış Politikası ; Avrupa Tarihi ; Siyasal Coğrafya, isahin[at]bandirma.edu.tr, 66F5327ADC506A65
+
+46725, PROFESÖR, LEVENT AYTEMİZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Mikro İktisat, Refah Ekonomisi ; Çevre Ekonomisi ; Gelişme Ekonomisi - Mikro, laytemiz[at]bandirma.edu.tr, C97454DF4DBC9DD7
+
+34213, PROFESÖR, MEHMET KARAYAMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/TÜRKİYE CUMHURİYETİ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Atatürk İlkeleri ve Cumhuriyet Tarihi, Atatürk İlkeleri ve Cumhuriyet Tarihi, mkarayaman[at]bandirma.edu.tr, 0CFFB32EC8E1CD61
+
+191405, PROFESÖR, MEHMET TEKTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ULAŞTIRMA MÜHENDİSLİĞİ BÖLÜMÜ/AKILLI ULAŞIM SİSTEMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, Yöneylem Araştırması, mtektas[at]bandirma.edu.tr, 27A96FADB18C8297
+
+201573, PROFESÖR, MEHMET ALİ AKINLAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/MÜHENDİSLİK TEMEL BİLİMLERİ BÖLÜMÜ/MÜHENDİSLİK TEMEL BİLİMLERİ ANABİLİM DALI/, Fen Bilimleri ve Matematik Temel Alanı, Matematik, Uygulamalı Matematik, makinlar[at]bandirma.edu.tr, FCE1C20DB4592591
+
+52281, PROFESÖR, MEHMET EMİN ERÇAKAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSADİ GELİŞME VE ULUSLARARASI İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Büyüme ; Gelişme Ekonomisi - Makro, mercakar[at]bandirma.edu.tr, 6A4A655F0D846376
+
+17726, PROFESÖR, METEHAN YILGÖR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/İSTATİSTİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Ekonometri, Zaman Serisi Analizi ; Panel Veri Ekonometrisi ; Uygulamalı Makro Ekonometri, myilgor[at]bandirma.edu.tr, 413253FE1EB4B050
+
+36812, PROFESÖR, MİKAİL ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/VETERİNERLİK BÖLÜMÜ/LABORANT VE VETERİNER SAĞLIK PR./, Sağlık Bilimleri Temel Alanı, Zootekni, Genetik ve Biyoistatistik, mikailarslan[at]bandirma.edu.tr, 05A68F61BD600D48
+
+4388, PROFESÖR, MUSTAFA SARI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/SU KAYNAKLARI YÖNETİMİ ANABİLİM DALI/, Ziraat ve Orman ve Su Ürünleri Temel Alanı, Su Ürünleri, Avlama Teknolojileri ; Hidrobiyoloji ; Temel Bilimler, msari[at]bandirma.edu.tr, 9055538AB44822D4
+
+34855, PROFESÖR, NAMIK AK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/İŞ SAĞLIĞI VE GÜVENLİĞİ PR./, Mühendislik Temel Alanı, Çevre Bilimleri ve Mühendisliği, Katı ve Tehlikeli Atıklar ; Hava Kirliliği ve Kontrolü ; Yenilenebilir Enerji Kaynakları, nak[at]bandirma.edu.tr, BD65F3A596FFD700
+
+15008, PROFESÖR, NEVİN AYTEMİZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/MÜHENDİSLİK TEMEL BİLİMLERİ BÖLÜMÜ/MÜHENDİSLİK TEMEL BİLİMLERİ ANABİLİM DALI/, Fen Bilimleri ve Matematik Temel Alanı, Kimya, Fiziksel Kimya ; Teorik Kimya ; Kimyasal Kinetik, 8B2217E253713915
+
+156179, PROFESÖR, NUREDDİN CENGİZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/HİSTOLOJİ VE EMBRİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Histoloji ve Embriyoloji, ncengiz[at]bandirma.edu.tr, C3382A8A5D7ED9B5
+
+35274, PROFESÖR, NURETTİN KOÇHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/BATI SANAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Arkeoloji, Kentsel Arkeoloji ; Hellenistik Dönem ; Yunan ve Roma Dönemi, nkochan[at]bandirma.edu.tr, EA60021E52FC29E6
+
+128284, PROFESÖR, NURETTİN KONAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/BEDEN EĞİTİMİ VE SPOR BÖLÜMÜ/BEDEN EĞİTİMİ VE SPOR ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Engelliler için Beden Eğitimi- Spor ve Fiziksel Aktivite ; Egzersiz ve Spor Psikolojisi ; Beden Eğitimi ve Oyun, nkonar[at]bandirma.edu.tr, 77C407C9F673F963
+
+8253, PROFESÖR, OKTAY ERAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/ACİL TIP ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Acil Tıp, oeray[at]bandirma.edu.tr, A036F17E6702CF6D
+
+124224, PROFESÖR, OSMAN ÜNLÜ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/ESKİ TÜRK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Klasik Türk Edebiyatı, Osmanlı Sahası Klasik Türk Edebiyatı, ounlu[at]bandirma.edu.tr, 27FB5219D20F47D7
+
+12610, PROFESÖR, ÖZCAN KARAHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT POLİTİKASI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Büyüme ; Para-Banka ; Uluslararası Finans, okarahan[at]bandirma.edu.tr, 6E73834A2F3B7E7E
+
+27410, PROFESÖR, ÖZGÜR BİYAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ HUKUK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Mali Hukuk, ozgurbiyan[at]hotmail.com, 693502F7D32F60F0
+
+2630, PROFESÖR, RIZA ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/SİYASET VE SOSYAL BİLİMLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyaset Bilimi, Karşılaştırmalı Siyasi Kurumlar ; Siyasal Akımlar ve Siyasal Düşünce Tarihi ; Siyaset Bilimi Metodolojisi, rarslan[at]bandirma.edu.tr, 98E4079E4E723DB2
+
+41939, PROFESÖR, SERAP ALTUNTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HEMŞİRELİKTE YÖNETİM ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Hemşirelikte Yönetim, saltuntas[at]bandirma.edu.tr, 485FCB2A06221B50
+
+3561, PROFESÖR, SERAP PALAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/ÇALIŞMA EKONOMİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; İşçi Sağlığı ve İş Güvenliği ; Dezavantajlı Gruplar, spalaz[at]bandirma.edu.tr, CE9723E6FF5CFE93
+
+18141, PROFESÖR, SERHAT OĞUZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/GENEL CERRAHİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Genel Cerrahi, soguz[at]bandirma.edu.tr, 2F2A097F1C73CFD9
+
+13687, PROFESÖR, SUNA KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, İstihdam ; Enflasyon ; Para Politikası, sunakorkmaz1[at]gmail.com, 860AA28F307F0228
+
+117534, PROFESÖR, TARHAN OKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/KARAR BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Kurumsal Yönetişim ; Örgütsel Davranış ; Uluslararası İşletmecilik, tokan[at]bandirma.edu.tr, F34CEDF4F3DE9B31
+
+191954, PROFESÖR, TÜLAY YENİÇERİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/ÜRETİM YÖNETİMİ VE PAZARLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Tüketici Davranışları ; Ürün ve Marka Yönetimi ; Pazarlama Araştırmaları, tyeniceri[at]bandirma.edu.tr, 6C2223F547AD50A8
+
+57894, PROFESÖR, UĞUR GÜNŞEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/TOPLU BESLENME SİSTEMLERİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, ugunsen[at]bandirma.edu.tr, 011CEB3585B53FD9
+
+39518, PROFESÖR, VOLKAN EKİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/HALKLA İLİŞKİLER VE REKLAMCILIK BÖLÜMÜ/HALKLA İLİŞKİLER VE REKLAMCILIK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Reklamcılık, Reklam Kampanyaları ; Reklam Stratejileri ; Reklam Araştırmaları, vekin[at]bandirma.edu.tr, 19314A3B07D07562
+
+129752, PROFESÖR, YAĞMUR AKKOYUNLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/ANTRENÖRLÜK EĞİTİMİ BÖLÜMÜ/ANTRENÖRLÜK EĞİTİMİ ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Egzersiz ve Spor Fizyolojisi ; Antrenman ; Egzersiz ve Sporda Beslenme, yakkoyunlu[at]bandirma.edu.tr, 900C9A1F50A7359F
+
+39224, PROFESÖR, YAVUZ ÇOKAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/GIDA TEKNOLOJİSİ PR./, Sağlık Bilimleri Temel Alanı, Veterinerlik Mikrobiyolojisi, ycokal[at]bandirma.edu.tr, 3450546F576A1A5C
+
+13445, PROFESÖR, YILMAZ ARI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/COĞRAFYA BÖLÜMÜ/BEŞERİ VE İKTİSADİ COĞRAFYA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Beşeri ve İktisadi Coğrafya, Ekoloji- Sürdürülebilirlik ve Enerji ; Türkiye Beşeri Coğrafyası ; Bölgesel Coğrafya, yari[at]bandirma.edu.tr, 386394750102104D
+
+32468, PROFESÖR, YILMAZ BAYAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİYE TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Para Politikası ; Para-Banka ; Sermaye Piyasaları, ybayar[at]bandirma.edu.tr, CB303311BEA4A496
+
+147834, PROFESÖR, ZEKAİ METE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/YENİÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yeniçağ Tarihi, Osmanlı Tarihi ; Kent Tarihi ; Askeri Tarih, 9356C3E8C90C5DBF
+
+179176, DOÇENT, ABDULLAH YEŞİL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRONİK ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektronik ; Analog Tasarım ; Yarı İletkenler, ayesil[at]bandirma.edu.tr, 5AC4B1678EF7C55A
+
+119071, DOÇENT, ABDULLAH HİKMET ATAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/HADİS ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, Hadis, hatan[at]bandirma.edu.tr, B8D1E70F9978262D
+
+229272, DOÇENT, ADEM BÖLÜKBAŞI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Kültür Sosyolojisi ; Aile Sosyolojisi ; Din Sosyolojisi, abolukbasi[at]bandirma.edu.tr, 415FBF66F97E275D
+
+44490, DOÇENT, ADEM DALCALI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/DEVRELER VE SİSTEMLER ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektrik Makineleri ve Enerji Dönüşümü, adalcali[at]bandirma.edu.tr, 8E6A3CA5A9208287
+
+42994, DOÇENT, AHMET GÜVEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/RADYO, TELEVİZYON VE SİNEMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İletişim Çalışmaları, İletişim Sosyolojisi ; İletişim Araştırmaları ; Kişilerarası İletişim, aguven[at]bandirma.edu.tr, 87B62EAE38257A14
+
+47458, DOÇENT, ALİ ERÇETİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ İNŞAATI ANABİLİM DALI/, Mühendislik Temel Alanı, Makine Mühendisliği, Üretim Teknolojileri ; Toz Teknolojisi ; Ölçme Tekniği, aercetin[at]bandirma.edu.tr, 2D90ECE74CF17551
+
+51245, DOÇENT, ALPER EKİNCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/DIŞ TİCARET BÖLÜMÜ/DIŞ TİCARET PR./, Fen Bilimleri ve Matematik Temel Alanı, Matematik, Matematiksel Analiz, alperekinci[at]hotmail.com, A7C9C6583E807EA6
+
+279926, DOÇENT, ALTUĞ GÜNAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/AVRUPA BİRLİĞİ SİYASETİ VE ULUSLARARASI İLİŞKİLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Avrupa Birliği, Avrupa Birliği Ekonomisi ; Avrupa Birliği-Türkiye İlişkileri ; Avrupa ve Bölge Çalışmaları, agunar[at]bandirma.edu.tr, 48DBBC4B4CA826A5
+
+54344, DOÇENT, ASİYE ASLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/ELEKTRİK VE ENERJİ BÖLÜMÜ/DOĞALGAZ VE TESİSATI TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Makine Mühendisliği, Yenilenebilir Enerji Sistemleri, aaslan[at]bandirma.edu.tr, 334D2C9AD6C00147
+
+160798, DOÇENT, AYKUT BAŞER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/ÜROLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Üroloji, abaser[at]bandirma.edu.tr, 0164FE860DA812BB
+
+35177, DOÇENT, BAHTİYAR ASLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/YENİ TÜRK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Yeni Türk Edebiyatı, Türkiye Sahası Yeni Türk Edebiyatı, bahtiyar.aslan[at]hotmail.com, 8F83E7CB1AB70CA7
+
+309927, DOÇENT, BEKİR GÖKPINAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/YENİÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yeniçağ Tarihi, Osmanlı Tarihi ; Askeri Tarih ; Balkan Tarihi, bgokpinar[at]bandirma.edu.tr, 82986446655CA116
+
+44306, DOÇENT, BEKİR GÜNDOĞMUŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/YÖNETİM BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyasal Hayat ve Kurumlar, Türk Siyasal Hayatı, bgundogmus[at]bandirma.edu.tr, 66867178F173E925
+
+25752, DOÇENT, BİLAL AYDOĞAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/GEMİ İNŞAATI PR./, Mühendislik Temel Alanı, Makine Mühendisliği, İçten Yanmalı Motorlar ; Yakıtlar ve Yanma, 00ADB6A3B5743D20
+
+32161, DOÇENT, BURCU İŞGÜDEN KILIÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/MUHASEBE VE FİNANSMAN ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Muhasebe, Muhasebe Teorisi  ; Denetim ; İçdenetim, bkilic[at]bandirma.edu.tr, D95D4D1F85FC8740
+
+33555, DOÇENT, BÜLENT ARPAT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/SOSYAL POLİTİKA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, İşçi Sağlığı ve İş Güvenliği ; Sosyal Güvenlik ; İş ve Sosyal Güvenlik Hukuku, barpat[at]bandirma.edu.tr, 6EC124010DDC9893
+
+180724, DOÇENT, BÜLENT BÜYÜK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/MÜHENDİSLİK TEMEL BİLİMLERİ BÖLÜMÜ/MÜHENDİSLİK TEMEL BİLİMLERİ ANABİLİM DALI/, Fen Bilimleri ve Matematik Temel Alanı, Fizik, Nükleer Fizik, bbuyuk[at]bandirma.edu.tr, 5F531E5E151D6D88
+
+103358, DOÇENT, CANER ÇETİNER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/MÜTERCİM VE TERCÜMANLIK BÖLÜMÜ/İNGİLİZCE MÜTERCİM VE TERCÜMANLIK ANABİLİM DALI/, Filoloji Temel Alanı, Çeviribilim, Çeviribilim, ccetiner[at]bandirma.edu.tr, 4447FAEDB9DBFF8B
+
+109167, DOÇENT, CELİL AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT POLİTİKASI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Büyüme ; Enflasyon, caydin[at]bandirma.edu.tr, 4736DB0ADDD5BBAA
+
+53104, DOÇENT, CEMALETTİN HATİPOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/BİLİŞİM TEKNOLOJİLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, E-Ticaret ; Bilgi Yönetimi ; E-İş, chatipoglu[at]bandirma.edu.tr, 7BBAB2D1BEBFB444
+
+47014, DOÇENT, CEMİLE ŞAHİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/SİYASİ TARİH ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyasi Tarih, Türk Dış Politikası ; Türk Siyasal Hayatı ; Avrupa Birliği-Türkiye İlişkileri, csahin[at]bandirma.edu.tr, F240133705B8E453
+
+305196, DOÇENT, CENNET GÖLOĞLU DEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/ÇOCUK GELİŞİMİ BÖLÜMÜ/ÇOCUK GELİŞİMİ ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Eğitim Bilimleri, Eğitim Programları ve Öğretim, cdemir[at]bandirma.edu.tr, FB71F3842AF6A9C8
+
+49289, DOÇENT, ÇAĞATAY BAŞARIR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/ULUSLARARASI TİCARET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Finansal Piyasalar ve Kurumlar   ; Finansal Tahmin ve Modelleme  ; Yatırımlar ve Portföy Yönetimi, cbasarir[at]bandirma.edu.tr, D5A6042B8D5F75FD
+
+276361, DOÇENT, DİLBER DURMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/GÖĞÜS HASTALIKLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Göğüs Hastalıkları, dilberdurmaz[at]bandirma.edu.tr, 7D0729C5E3CF0A6E
+
+51912, DOÇENT, EBRU KAYA MUTLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/ORTOPEDİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, emutlu[at]bandirma.edu.tr, F491B94C175765EF
+
+316240, DOÇENT, EMİNE YALUR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR DESTEKLİ TASARIM VE ANİMASYON PR./, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; Görsel Tasarım ; Etkileşim Tasarımı / Gösterge Bilim, eyalur[at]bandirma.edu.tr, BCAD9A292B297C6A
+
+22369, DOÇENT, ERDAL KARAVAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/RADYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Radyoloji, 4056B8C2E5FBB98B
+
+162765, DOÇENT, ERDEM BAĞCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSADİ GELİŞME VE ULUSLARARASI İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Büyüme ; İstihdam ; Uluslararası Finans, ebagci[at]bandirma.edu.tr, E1CFE97B4960765E
+
+43302, DOÇENT, EVREN İPEK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT POLİTİKASI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Sermaye Piyasaları ; İstihdam ; Maliye Politikası, eipek[at]bandirma.edu.tr, 78A0F62F57E13310
+
+116470, DOÇENT, EYLEM GÜZEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/GENEL SANAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sanat Tarihi, Türk-İslam Sanatları Tarihi, 140D2B4242212C7A
+
+194580, DOÇENT, FATİH ALTUN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Dezavantajlı Gruplar ; Refah İktisadı ; Çalışma Ekonomisi ve Endüstri İlişkileri, fatihaltun75[at]gmail.com, 112C0E9AE053601B
+
+269930, DOÇENT, FATİH AYHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSADİ GELİŞME VE ULUSLARARASI İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İktisat, Uluslararası Ticaret ; Bölgesel İktisat ; Bölgesel Gelişme ve Küreselleşme, fayhan[at]bandirma.edu.tr, 307DF8157B57EA92
+
+46841, DOÇENT, FATİH ZENGİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/İSLAM TARİHİ VE SANATLARI BÖLÜMÜ/SİYER-İ NEBİ VE İSLAM TARİHİ ANABİLİM DALI/, İlahiyat Temel Alanı, İslam Tarihi ve Sanatları, İslam Tarihi, fzengin[at]bandirma.edu.tr, 67DF69DF853D9409
+
+304497, DOÇENT, FERİDE İMRANA ALTUN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/BATI SANAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Erken Hıristiyan ve Bizans Sanatları, Ortaçağ Arkeolojisi, faltun[at]bandirma.edu.tr, CE08D8C6218567F9
+
+189392, DOÇENT, FİLİZ ÖZYİGİT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/TIBBİ FARMAKOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Tıbbi Farmakoloji, fozyigit[at]bandirma.edu.tr, C95EF59DFBA30502
+
+40770, DOÇENT, GÖKHAN ABA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Sağlık Kurumları Yönetimi, gokhanaba20[at]hotmail.com, 12636727BED5B708
+
+124821, DOÇENT, GÜLNİL AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/ÜRETİM YÖNETİMİ VE PAZARLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Ürün ve Marka Yönetimi ; Hizmet Pazarlaması ; Tüketici Davranışları, gulnilaydin[at]yahoo.com, 38BD5A5869AE74FD
+
+23951, DOÇENT, HALE KIRER SILVA LECUNA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Mikro İktisat, İktisat Teorisi, hkirer[at]bandirma.edu.tr, C95BE586F879550F
+
+254962, DOÇENT, HAMİT AKÇAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/YÖNETİM VE ÇALIŞMA SOSYOLOJİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; Çalışma Psikolojisi ; Çalışma Sosyolojisi, hamitakcay[at]gmail.com, F03E4899DEBC1305
+
+129413, DOÇENT, HANEFİ YAZICI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/DEVLETLER HUKUKU ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Ortadoğu Çalışmaları ; Türk Dış Politikası ; Bölgesel Çalışmalar, hyazici[at]bandirma.edu.tr, 5CE863AB06D69DA8
+
+101170, DOÇENT, HARUN ÖZBAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ALTERNATİF ENERJİLİ ELEKTRİK SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Güç Elektroniği, hozbay[at]bandirma.edu.tr, 1A9BFC73A0F8EBDF
+
+250305, DOÇENT, HARUN YILDIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/ULUSLARARASI TİCARET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Örgütsel Davranış, harunyildiz[at]bandirma.edu.tr, 7C65D627E6BCA451
+
+109703, DOÇENT, HATİCE AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/HALKLA İLİŞKİLER VE REKLAMCILIK BÖLÜMÜ/HALKLA İLİŞKİLER VE REKLAMCILIK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Tüketici Davranışları ; Hizmet Pazarlaması ; Müşteri İlişkileri Yönetimi, haydin[at]bandirma.edu.tr, 37E5A123D6007264
+
+53386, DOÇENT, HİCRAN ÖZGÜNER KILIÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/ÜRETİM YÖNETİMİ VE PAZARLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Dijital Pazarlama ; Pazarlama İletişimi ; Hizmet Pazarlaması, hkilic[at]bandirma.edu.tr, 60BA6D1E6E8FDC2D
+
+153477, DOÇENT, HÜSEYİN IŞIK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/MÜHENDİSLİK TEMEL BİLİMLERİ BÖLÜMÜ/MÜHENDİSLİK TEMEL BİLİMLERİ ANABİLİM DALI/, Fen Bilimleri ve Matematik Temel Alanı, Matematik, Topoloji, hisik[at]bandirma.edu.tr, 655DBA5FB1D213F0
+
+48999, DOÇENT, HÜSEYİN OKTAY ERKOL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK MAKİNELERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Kontrol Teorisi ve Uygulamaları ; Robotik, herkol[at]bandirma.edu.tr, 9A27B6639BB4A1CE
+
+304383, DOÇENT, İLYAS ÖZER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Ses İşleme ; Yapay Öğrenme ; Yapay Zeka, iozer[at]bandirma.edu.tr, FC7FAE0CE02A7892
+
+41150, DOÇENT, İSMAİL KOÇAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/MÜHENDİSLİK TEMEL BİLİMLERİ BÖLÜMÜ/MÜHENDİSLİK TEMEL BİLİMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Yer Bilimleri ve Mühendisliği, Maden Yatakları ve Jeokimya ; Mineraloji-Petrografi ; Jeotermal, ikocak[at]bandirma.edu.tr, AC005E2189F9DB26
+
+253729, DOÇENT, KEMAL ÇİFTYILDIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/İŞ SAĞLIĞI VE GÜVENLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Psikolojisi, 444E3CAE2FD38624
+
+250294, DOÇENT, KEMAL YILDIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/SOSYAL POLİTİKA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri, kyildiz[at]bandirma.edu.tr, FC0FAFA9412FC2A4
+
+35677, DOÇENT, KEVSER TARI SELÇUK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/TOPLUM BESLENMESİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Halk Sağlığı, kselcuk[at]bandirma.edu.tr, 76304B251ABB588B
+
+24843, DOÇENT, LATİFE UTAŞ AKHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/RUH SAĞLIĞI VE PSİKİYATRİ HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Psikiyatri Hemşireliği, lakhan[at]bandirma.edu.tr, E911DB8780D7598C
+
+50054, DOÇENT, LEVENT BİLGİLİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Deniz Ulaşımı ; Gemi İnşaatı ; Gemilerde Enerji Verimliliği, leventbilgili1661[at]gmail.com, 5043D3D58F354BBC
+
+57795, DOÇENT, MELAHAT YILDIRIM SAÇILIK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/OTEL LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/TURİZM VE OTEL İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Gastronomi ; Turizm İşletmeciliği ; Sürdürülebilir Turizm, msacilik[at]bandirma.edu.tr, 78747D7B5BF177F6
+
+55104, DOÇENT, METİN KILIÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/MUHASEBE VE FİNANSMAN ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Muhasebe, Kurumsal Yönetişim ; Finansal Bilgi Yönetimi  ; İçdenetim, metinkilic[at]bandirma.edu.tr, E4CF2A1EA1EA4CA6
+
+263955, DOÇENT, MİRAÇ KAMIŞLIOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ/TIBBİ GÖRÜNTÜLEME TEKNİKLERİ PR./, Fen Bilimleri ve Matematik Temel Alanı, Fizik, Nükleer Fizik, mkamislioglu[at]bandirma.edu.tr, 70548BDCA5DAF395
+
+291771, DOÇENT, MUHAMMED KÜRŞAD ÖZEKİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/AVRUPA BİRLİĞİ SİYASETİ VE ULUSLARARASI İLİŞKİLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Uluslararası İlişkiler Kuramları ; Ortadoğu Çalışmaları ; Küreselleşme, mozekin[at]bandirma.edu.tr, 4243AD7616C070A6
+
+174546, DOÇENT, MUHAMMET NURİ SEYMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/TELEKOMÜNİKASYON ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Haberleşme ; Yapay Zeka, mseyman[at]bandirma.edu.tr, 9049D7DEEE06A989
+
+42469, DOÇENT, MUSA BAYIR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT POLİTİKASI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Para Politikası ; Büyüme ; Enflasyon, mbayir[at]bandirma.edu.tr, F6034053F2FD95D8
+
+304550, DOÇENT, MUSTAFA KEVSER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/FİNANS BANKACILIK VE SİGORTACILIK BÖLÜMÜ/BANKACILIK VE SİGORTACILIK PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Bankacılık ; İslami Finans ; Finansal Piyasalar ve Kurumlar, mkevser[at]bandirma.edu.tr, D08FA30BF9DAE0E7
+
+194510, DOÇENT, MUSTAFA YURTTADUR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Bankacılık ; İslami Finans ; Davranışsal Finans, myurttadur[at]bandirma.edu.tr, 3732D4E396330B99
+
+294050, DOÇENT, MÜMTAZ TANER TORUN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/KULAK, BURUN VE BOĞAZ HASTALIKLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Kulak Burun Boğaz Hastalıkları, mtorun[at]bandirma.edu.tr, 5C94AA99309402CB
+
+153683, DOÇENT, NECLA BANDIRMALI ERTÜRK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/BİLGİSAYAR BİLİMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar ve İletişim Ağları ; Bilgi Güvenliği ve Kriptoloji, nerturk[at]bandirma.edu.tr, 87674895356B4860
+
+58564, DOÇENT, NECLA TEKTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/YÖNEYLEM ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, İstatistiksel Analiz Ve Uygulamalar ; Çok Kıstaslı Karar Verme ; Yöneylem Araştırması, ntektas[at]bandirma.edu.tr, B7381AE55727D502
+
+32411, DOÇENT, NİDA ABDİOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/MUHASEBE VE FİNANSMAN ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Finansal Piyasalar ve Kurumlar   ; Finansal Tahmin ve Modelleme  ; Bankacılık, nidaabdioglu[at]yahoo.com, 5C1F9E91AD44C9D2
+
+44034, DOÇENT, NİLAY ILDIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ/TIBBİ GÖRÜNTÜLEME TEKNİKLERİ PR./, Sağlık Bilimleri Temel Alanı, Tıbbi Mikrobiyoloji, nıldız[at]bandirma.edu.tr, AAF8414779AD1552
+
+296958, DOÇENT, ONUR BAYRAKCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/SOSYAL HİZMET VE DANIŞMANLIK BÖLÜMÜ/SOSYAL HİZMETLER PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Çalışma Sosyolojisi ; İletişim Sosyoloji, obayrakci[at]bandirma.edu.tr, 22670D8C11CAE734
+
+23393, DOÇENT, ÖZER YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/KARAR BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Hizmet Pazarlaması ; Tüketici Davranışları, oyilmaz[at]bandirma.edu.tr, B95F7E8935D7D9C5
+
+35756, DOÇENT, ÖZLEM KIZILGÖL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/İSTATİSTİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Ekonometri, Uygulamalı Mikro Ekonometri ; Uygulamalı Makro Ekonometri ; Zaman Serisi Analizi, okizilgol[at]bandirma.edu.tr, 8B861BCBD11535B5
+
+47148, DOÇENT, RAFET DURGUT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Algoritmalar ve Hesaplama Kuramı ; Bilgisayar Yazılımı ; Yapay Zeka, rdurgut[at]bandirma.edu.tr, CEA3585D46FC6CB1
+
+203775, DOÇENT, RECEP YILDIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Kültür Sosyolojisi ; Bilgi ve Bilim Sosyolojisi ; Sosyal Değişim, ryildiz[at]bandirma.edu.tr, 39265B579D7E8362
+
+316974, DOÇENT, REFİK YALUR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/GRAFİK TASARIMI BÖLÜMÜ/GRAFİK TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; Görsel Tasarım ; Etkileşim Tasarımı / Gösterge Bilim, ryalur[at]bandirma.edu.tr, A629FE15C83B040A
+
+285669, DOÇENT, RESUL YAVUZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/TÜRKİYE CUMHURİYETİ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Atatürk İlkeleri ve Cumhuriyet Tarihi, Atatürk İlkeleri ve Cumhuriyet Tarihi, ryavuz[at]bandirma.edu.tr, BACC513CB23C217B
+
+235734, DOÇENT, RULİN DENİZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/KADIN HASTALIKLARI VE DOĞUM ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Kadın Hastalıkları ve Doğum, rdeniz[at]bandirma.edu.tr, EFE512BCB163D142
+
+57922, DOÇENT, SAMET ÇEVİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/OTEL LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/TURİZM VE OTEL İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Turizm Pazarlaması ; Turizm İşletmeciliği ; Gastronomi, scevik[at]bandirma.edu.tr, FF64F7A6B4FDAD85
+
+34932, DOÇENT, SEFER ÜSTEBAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/ÇOCUK SAĞLIĞI VE HASTALIKLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Çocuk Sağlığı ve Hastalıkları, sustebay[at]bandirma.edu.tr, 301A5EE61A10E52F
+
+240057, DOÇENT, SELAHATTİN KOŞUNALP, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLİŞİM GÜVENLİĞİ TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Ağ Sistemleri ; Haberleşme ; Gömülü Sistemler, skosunalp[at]bandirma.edu.tr, 1B1041A43F0D94F8
+
+259658, DOÇENT, SELÇUK BAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Fen Bilimleri ve Matematik Temel Alanı, Matematik, Geometri, sbas[at]bandirma.edu.tr, A5F5503543CD4590
+
+32725, DOÇENT, SELÇUK ÇAĞRI ESENER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİYE TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Maliye Kuramı ; Kamu Maliyesi ; Kamu Ekonomisi, cesener[at]bandirma.edu.tr, 497ABC67E38EFA9E
+
+45272, DOÇENT, SELVA STAUB, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/LOJİSTİK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Stratejik Yönetim, D4524119CE2594F5
+
+254191, DOÇENT, SENEM NART, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/DENİZCİLİK EKONOMİSİ VE POLİTİKALARI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Örgütsel Davranış ; Stratejik Yönetim ; Yönetim Psikolojisi, snart[at]bandirma.edu.tr, 88963191B7C3652F
+
+41340, DOÇENT, SERAP TOPRAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/GENEL TÜRK TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyasi Tarih, Türk Dış Politikası ; Avrupa Tarihi, stoprak[at]bandirma.edu.tr, 81930FB2B4E3165A
+
+126502, DOÇENT, SERHAT DUMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK TESİSLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektrik Tesisleri ; Elektrik Enerjisi ve Güç Sistemleri ; Yapay Zeka, sduman[at]bandirma.edu.tr, 112AAB9F80EB3E65
+
+36530, DOÇENT, SEVDA AKAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/BÜTÇE VE MALİ PLANLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Bütçe ve Mali Planlama ; Kamu Maliyesi ; Mali İktisat, sevdaakar[at]bandirma.edu.tr, E6D18BBDEA40F324
+
+234743, DOÇENT, SİBEL KOCAER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/MÜTERCİM VE TERCÜMANLIK BÖLÜMÜ/İNGİLİZCE MÜTERCİM VE TERCÜMANLIK ANABİLİM DALI/, Filoloji Temel Alanı, Klasik Türk Edebiyatı, Osmanlı Sahası Klasik Türk Edebiyatı ; Osmanlı Sahası Dışındaki Klasik Türk Edebiyatı, skocaer[at]bandirma.edu.tr, AD1A24101326603D
+
+25375, DOÇENT, SİNAN UYĞUR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/YENİ TÜRK DİLİ ANABİLİM DALI/, Filoloji Temel Alanı, Türk Dili, Yeni Türk Dili (Eski Anadolu- Osmanlı- Türkiye Türkçesi) ; Tarihi Kuzey Doğu Türk Dili (Harezm- Kıpçak- Çağatay), suygur[at]bandirma.edu.tr, 850113F8485B5B7D
+
+306796, DOÇENT, SÜMEYRA SAVAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/TIBBİ MİKROBİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Tıbbi Mikrobiyoloji, ssavas[at]bandirma.edu.tr, A2EC524B43E0B0DD
+
+282415, DOÇENT, UFUK BİNGÖL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/SAĞLIK KURUMLARI İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve İktisadi Demografi ; Refah İktisadı ; Bölgesel Gelişme ve Küreselleşme, ubingol[at]bandirma.edu.tr, 93D4EA75120FC2AA
+
+38566, DOÇENT, UFUK ÇELİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/COĞRAFİ BİLGİ SİSTEMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Karar Destek Sistemleri ; İş Analitiği ; Veri Yönetimi, ucelik[at]bandirma.edu.tr, A199CAC6592E7198
+
+326781, DOÇENT, UĞUR KARADURMUŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/SU ALTI TEKNOLOJİSİ PR./, Ziraat ve Orman ve Su Ürünleri Temel Alanı, Su Ürünleri, Avlama Teknolojileri ; Temel Bilimler ; Hidrobiyoloji, ukaradurmus[at]bandirma.edu.tr, 9A747C63450293CA
+
+159951, DOÇENT, ÜMİT AKIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/ÇAĞDAŞ TÜRK LEHÇELERİ VE EDEBİYATLARI ANABİLİM DALI/, Filoloji Temel Alanı, Çağdaş Türk Lehçeleri ve Edebiyatları, Güney-Batı (Oğuz) Türk Lehçeleri ve Edebiyatları, uakin[at]bandirma.edu.tr, B6EECB01907823A8
+
+253951, DOÇENT, YAHYA TURAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/FELSEFE VE DİN BİLİMLERİ BÖLÜMÜ/DİN BİLİMLERİ ANABİLİM DALI/, İlahiyat Temel Alanı, Felsefe ve Din Bilimleri, Din Psikolojisi, yturan[at]bandirma.edu.tr, 3CF7659520BFA75E
+
+235732, DOÇENT, YAKUP BAYKUŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/KADIN HASTALIKLARI VE DOĞUM ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Kadın Hastalıkları ve Doğum, ybaykus[at]bandirma.edu.tr, 56C7B4E4DD04D45C
+
+279318, DOÇENT, YALÇIN KAHYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SOSYOLOJİ BÖLÜMÜ/GENEL SOSYOLOJİ VE METODOLOJİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Gençlik Sosyolojisi ; İletişim Sosyoloji ; Çalışma Sosyolojisi, 31CFC30FCCFB8DE2
+
+215072, DOÇENT, YASEMİN ÜNAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/NÖROLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Nöroloji, 406D97C2C758B794
+
+232472, DOÇENT, YASİN YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/İNSAN KAYNAKLARI YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Dezavantajlı Gruplar ; Çalışma Ekonomisi ve İktisadi Demografi, 38578EA39CB9474D
+
+43633, DOÇENT, YAVUZ TANSOY YILDIRIM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/ÖRGÜTSEL DAVRANIŞ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Stratejik Yönetim, D7D8268E4D4F4C7E
+
+101057, DOÇENT, YILDA ARZU ABA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/KADIN SAĞLIĞI VE HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Doğum ve Kadın Hastalıkları Hemşireliği, yaba[at]bandirma.edu.tr, DE23226FBA0F6768
+
+117230, DOÇENT, ZEYNEP YÜCEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/ULUSLARARASI SİYASET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Türk Dış Politikası ; Uluslararası Siyaset, zyucel[at]bandirma.edu.tr, F4A60A45FAC13EE2
+
+254716, ÖĞRETİM GÖREVLİSİ, AHMET AKKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR PROGRAMCILIĞI PR./, Mühendislik Temel Alanı, Mekatronik Mühendisliği, aakkaya[at]bandirma.edu.tr, EC68FA5120E3678A
+
+19381, ÖĞRETİM GÖREVLİSİ, AHMET BİLİCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ/TIBBİ GÖRÜNTÜLEME TEKNİKLERİ PR./, Fen Bilimleri ve Matematik Temel Alanı, Fizik, Nükleer Fizik, abilici[at]bandirma.edu.tr, A22E8DB81E5358C3
+
+355196, ÖĞRETİM GÖREVLİSİ, AHMET DEMİRAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/SU ALTI TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Deniz Ulaştırma Mühendisliği ; Güverte ve Seyir Mühendisliği ; Gemi Yönetimi, ademiray[at]bandirma.edu.tr, 93D40990DF02EB8B
+
+350482, ÖĞRETİM GÖREVLİSİ, AHMET UĞUR BİÇER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR DESTEKLİ TASARIM VE ANİMASYON PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Bilgisayar ve Öğretim Teknolojileri Eğitimi, Bilişim Teknolojileri Eğitimi ; Materyal Geliştirme ; Eğitim Teknolojileri, abicer[at]bandirma.edu.tr, C1494697B554F723
+
+46201, ÖĞRETİM GÖREVLİSİ, ALİ DEĞİRMENCİOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/VETERİNERLİK BÖLÜMÜ/LABORANT VE VETERİNER SAĞLIK PR./, Sağlık Bilimleri Temel Alanı, Veterinerlik İç Hastalıkları, adegirmencioglu[at]bandirma.edu.tr, 1A71769C673716BE
+
+130047, ÖĞRETİM GÖREVLİSİ, ALİ KEMAL DURKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/WEB TASARIMI VE KODLAMA PR./, 1B8BEBB3A62B42E5
+
+341995, ÖĞRETİM GÖREVLİSİ, ALPARSLAN FATİH KULAKAÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/SU ALTI TEKNOLOJİSİ PR./, Spor Bilimleri Temel Alanı, Spor Bilimleri, akulakac[at]bandirma.edu.tr, D1B852EF419238B8
+
+322592, ÖĞRETİM GÖREVLİSİ, ASLI KOÇAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Türkçe Eğitimi, Türkçe Eğitimi, akocak[at]bandirma.edu.tr, 8F6BE407B3F6E779
+
+107068, ÖĞRETİM GÖREVLİSİ, AYBİGE BAŞEĞMEZ ÇETİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/NULL/NULL, Filoloji Temel Alanı, Yeni Türk Edebiyatı, 0D14A0C5DF8A854E
+
+265040, ÖĞRETİM GÖREVLİSİ, AYÇA KILIÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, 506A37E8B99A6459
+
+358952, ÖĞRETİM GÖREVLİSİ, AYDIN GÜNGÖR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/SOSYAL GÜVENLİK PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, agungor[at]bandirma.edu.tr, 9A964A3958918C7D
+
+17383, ÖĞRETİM GÖREVLİSİ, AYŞE ALEV ALDEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Muhasebe, Denetim ; İçdenetim ; Uluslararası Muhasebe, FB166EEAD717F044
+
+329208, ÖĞRETİM GÖREVLİSİ, AYŞE KÜBRA BEKAR SANDIK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Filoloji Temel Alanı, Klasik Türk Edebiyatı, Osmanlı Sahası Klasik Türk Edebiyatı, aysekubrabekar[at]hotmail.com, 606DEB12BE4EC081
+
+186023, ÖĞRETİM GÖREVLİSİ, AYŞE NUR KAPCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/YABANCI DİLLER VE KÜLTÜRLER BÖLÜMÜ/UYGULAMALI İNGİLİZCE ÇEVİRMENLİK PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, akapci[at]bandirma.edu.tr, 558DC72B9071688D
+
+349308, ÖĞRETİM GÖREVLİSİ, AYŞEGÜL DEMİR SARIİPEK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TERAPİ VE REHABİLİTASYON BÖLÜMÜ/FİZYOTERAPİ PR./, Sağlık Bilimleri Temel Alanı, Fiziksel Tıp ve Rehabilitasyon, asariipek[at]bandirma.edu.tr, E95BE16215FFB399
+
+108328, ÖĞRETİM GÖREVLİSİ, AZİZ YİGİT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ADALET MESLEK YÜKSEKOKULU/HUKUK BÖLÜMÜ/ADALET PR./, Hukuk Temel Alanı, İdare Hukuku, İdare Hukuku, 77CF97E6AACAD6E9
+
+54193, ÖĞRETİM GÖREVLİSİ, BAKİ TUNA YAZİCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ADALET MESLEK YÜKSEKOKULU/HUKUK BÖLÜMÜ/ADALET PR./, Hukuk Temel Alanı, Medeni Hukuk, Medeni Hukuk, 73D9E3F6A7315C4E
+
+47492, ÖĞRETİM GÖREVLİSİ, BANU DÜNDAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/TÜRK DİLİ BÖLÜMÜ/, Filoloji Temel Alanı, Türk Dili, Yeni Türk Dili (Eski Anadolu- Osmanlı- Türkiye Türkçesi) ; Tarihi Kuzey Doğu Türk Dili (Harezm- Kıpçak- Çağatay), bdundar[at]bandirma.edu.tr, 01D78D8770465566
+
+316334, ÖĞRETİM GÖREVLİSİ, BEATRIZ ELENA FUENTES CONTE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Bilgisayar ve Öğretim Teknolojileri Eğitimi, bconte[at]bandirma.edu.tr, 7F3FC6600A1D0AF7
+
+265606, ÖĞRETİM GÖREVLİSİ, BERKCAN CANDEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/SOSYAL GÜVENLİK PR./, Hukuk Temel Alanı, Anayasa Hukuku, bcandemir[at]bandirma.edu.tr, 2FC0D566D975D645
+
+301275, ÖĞRETİM GÖREVLİSİ, BETÜL GÜL ŞARSEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ADALET MESLEK YÜKSEKOKULU/HUKUK BÖLÜMÜ/CEZA İNFAZ VE GÜVENLİK HİZMETLERİ PR./, Hukuk Temel Alanı, Ceza ve Ceza Muhakemesi Hukuku, Ceza ve Ceza Muhakemesi Hukuku, 5A5455758DCB655F
+
+332081, ÖĞRETİM GÖREVLİSİ, BLEN GETACHEW JALETTA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, bjaletta[at]bandirma.edu.tr, 6B2A8BAFFB859067
+
+282992, ÖĞRETİM GÖREVLİSİ, BURCU ASLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, burcuaslan[at]bandirma.edu.tr, D4CF720DA00CB6A1
+
+101349, ÖĞRETİM GÖREVLİSİ, BURCU CAMGÖZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/NULL/NULL, Filoloji Temel Alanı, Türk Dili, bozdemir[at]bandirma.edu.tr, 6FDDDF2879A886FD
+
+44184, ÖĞRETİM GÖREVLİSİ, BÜLENT GEDİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/ELEKTRİK VE ENERJİ BÖLÜMÜ/DOĞALGAZ VE TESİSATI TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Enerji Sistemleri Mühendisliği, Tesisat Teknolojisi, 2BC4CCC6B960DC74
+
+258716, ÖĞRETİM GÖREVLİSİ, BÜŞRA İNCE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TERAPİ VE REHABİLİTASYON BÖLÜMÜ/FİZYOTERAPİ PR./, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, bince[at]bandirma.edu.tr, F1A67429D0BC8E25
+
+33410, ÖĞRETİM GÖREVLİSİ, BÜŞRA ÖNCÜ ÇAKIR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, bcakir[at]bandirma.edu.tr, C9E793F18302304C
+
+55256, ÖĞRETİM GÖREVLİSİ, CANSEN CAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/OTEL LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/TURİZM VE OTEL İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, 0CD463E48C60B4CB
+
+283163, ÖĞRETİM GÖREVLİSİ, COŞKUN KALP, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/SAĞLIK KURUMLARI İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Kamu Yönetimi, ckalp[at]bandirma.edu.tr, F20EBACADDCBCED9
+
+40903, ÖĞRETİM GÖREVLİSİ, DENİZ GÜNEŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/GEMİ İNŞAATI PR./, Mühendislik Temel Alanı, Makine Mühendisliği, Malzeme Tasarım ve Davranışları ; Kompozit Malzemeler ; Üretim Teknolojileri, dgunes[at]bandirma.edu.tr, B439B591ED251E7F
+
+53358, ÖĞRETİM GÖREVLİSİ, DUYGU BİLGİN KAYALIK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Bilgi ve Belge Yönetimi, 9A8DDE73D73DABB4
+
+306498, ÖĞRETİM GÖREVLİSİ, DUYGU KALKAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/SOSYAL HİZMET VE DANIŞMANLIK BÖLÜMÜ/SOSYAL HİZMETLER PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Para Politikası ; Büyüme ; Gelişme Ekonomisi - Makro, dkalkay[at]bandirma.edu.tr, 896B2D1EE74E98AF
+
+34023, ÖĞRETİM GÖREVLİSİ, EMRAH AKÇAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/NULL/NULL, Filoloji Temel Alanı, Yeni Türk Edebiyatı, Türkiye Sahası Yeni Türk Edebiyatı, eakcay[at]bandirma.edu.tr, CADDAFA7D37469B8
+
+355186, ÖĞRETİM GÖREVLİSİ, EMRULLAH TEKİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK//NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; Çalışma Sosyolojisi ; Çalışma Psikolojisi, etekin[at]bandirma.edu.tr, 1FD2C0406EA66095
+
+53647, ÖĞRETİM GÖREVLİSİ, FEHİM GÖZE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HALK SAĞLIĞI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Halk Sağlığı Hemşireliği, fegoze[at]gmail.com, 36508A6B733C0AA4
+
+22428, ÖĞRETİM GÖREVLİSİ, FUNDA UĞURLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Eğitim Bilimleri, Eğitim Programları ve Öğretim, fugurlu[at]bandirma.edu.tr, 335FBD2D6CDCCB46
+
+339976, ÖĞRETİM GÖREVLİSİ, GÖKHAN KOÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/TASARIM BÖLÜMÜ/GRAFİK TASARIMI PR./, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı, graphart[at]gmail.com, BC085ED8CE37B85F
+
+281069, ÖĞRETİM GÖREVLİSİ, GÜLÇİN ÇÖMEZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/İŞ SAĞLIĞI VE GÜVENLİĞİ PR./, Mühendislik Temel Alanı, Endüstri Mühendisliği, gcomez[at]bandirma.edu.tr, 25F49354A25D809D
+
+44914, ÖĞRETİM GÖREVLİSİ, GÜLHAN GÜLŞEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Tüketici Davranışları ; Dijital Pazarlama ; Ürün ve Marka Yönetimi, 1C96FD071677DCD6
+
+272535, ÖĞRETİM GÖREVLİSİ, GÜLPINAR SARMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, gulpinar.sarman[at]gmail.com, 73BA2A4EA22D9B5D
+
+59254, ÖĞRETİM GÖREVLİSİ, GÜRKAN AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Bilgisayar ve Öğretim Teknolojileri Eğitimi, Açık ve Uzaktan Öğrenme ; Eğitim Teknolojileri ; Uzaktan Eğitim Tasarımı ve Yönetimi, gurkanaydin[at]bandirma.edu.tr, F1E298A9CE2F0348
+
+354428, ÖĞRETİM GÖREVLİSİ, HAITHEM MBARKA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Filoloji Temel Alanı, Dünya Dilleri ve Edebiyatları, İngiliz Dili ve Edebiyatı, hmbarka[at]bandirma.edu.tr, D941ABC28507191D
+
+256369, ÖĞRETİM GÖREVLİSİ, HAKAN KUTLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/KUR'AN-I KERİM OKUMA VE KIRÂAT İLMİ ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, Kelam, hakankutlu571[at]gmail.com, 25E83802B0D82992
+
+310995, ÖĞRETİM GÖREVLİSİ, HATİCE BATMANTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, İnsan Kaynakları Yönetimi ; Stratejik Yönetim ; Uluslararası İşletmecilik, hbatmantas[at]bandirma.edu.tr, F99EC0DA26D24597
+
+302924, ÖĞRETİM GÖREVLİSİ, HAYRULLAH ALTINOK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/ULAŞTIRMA HİZMETLERİ BÖLÜMÜ/DENİZ VE LİMAN İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası Ticaret, Uluslararası Lojistik ; Uluslararası Pazarlama ; İthalat İhracat Yönetimi, haltinok[at]bandirma.edu.tr, 4A5CC5E8574FC8FF
+
+306150, ÖĞRETİM GÖREVLİSİ, HÜLYA AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Filoloji Temel Alanı, Türk Dili, Yeni Türk Dili (Eski Anadolu- Osmanlı- Türkiye Türkçesi), hulyaaydin[at]bandirma.edu.tr, B10EE1C0ED451E26
+
+51953, ÖĞRETİM GÖREVLİSİ, İLHAN GÖKGÖZOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/GIDA KALİTE KONTROLÜ VE ANALİZİ PR./, Sağlık Bilimleri Temel Alanı, Veterinerlik Gıda Hijyeni ve Teknolojisi, 60459CE82A5E3A95
+
+43954, ÖĞRETİM GÖREVLİSİ, İLKER BOZBEY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Filoloji Temel Alanı, Dünya Dilleri ve Edebiyatları, İngiliz Dili ve Edebiyatı, 84F42F0ED0BA8891
+
+271191, ÖĞRETİM GÖREVLİSİ, İLKNUR ALTUNTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR PROGRAMCILIĞI PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Bilgisayar ve Öğretim Teknolojileri Eğitimi, Öğretim Tasarımı ; Uzaktan Eğitim Tasarımı ve Yönetimi ; Bilişim Teknolojileri Eğitimi, ilknurkaynarca[at]gmail.com, 197E06044BD8B04A
+
+333207, ÖĞRETİM GÖREVLİSİ, İSMAİL ARI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Reklamcılık, Reklam Kampanyaları ; Reklam Yazarlığı ; Reklam Stratejileri, iari[at]bandirma.edu.tr, CA7224EDC0B16D1E
+
+47543, ÖĞRETİM GÖREVLİSİ, İZZET FUAT ONAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/ELEKTRİK VE ENERJİ BÖLÜMÜ/DOĞALGAZ VE TESİSATI TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Makine Mühendisliği, Isı Transferi ; Yenilenebilir Enerji Sistemleri  ; Enerji, ionar[at]bandirma.edu.tr, 82163B97F14CDCEC
+
+22386, ÖĞRETİM GÖREVLİSİ, KADİR KESGİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLİŞİM GÜVENLİĞİ TEKNOLOJİSİ PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Eğitim Bilimleri, Eğitim/Öğretim Teknolojileri ; Eğitim Yönetimi ; Eğitim Psikolojisi, kadirkesgin[at]gmail.com, 1D6771059E87729C
+
+33415, ÖĞRETİM GÖREVLİSİ, KAZIM AR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, B601ED1FE4198D11
+
+237561, ÖĞRETİM GÖREVLİSİ, KÜBRA YAZKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, C9D646AA6E6013E6
+
+312089, ÖĞRETİM GÖREVLİSİ, KÜBRA DAMLA EKENCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/DİYETETİK ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, DE5622D50076C5C8
+
+325791, ÖĞRETİM GÖREVLİSİ, KÜRŞAT CAN ATEŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/SÜT VE ÜRÜNLERİ TEKNOLOJİSİ PR./, Fen Bilimleri ve Matematik Temel Alanı, Biyoloji, Entomoloji, BFCCB5CBDB12ABD9
+
+304496, ÖĞRETİM GÖREVLİSİ, LEMAN ÜSTÜNDAĞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/TASARIM BÖLÜMÜ/GRAFİK TASARIMI PR./, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; Görsel Tasarım, lustundag[at]bandirma.edu.tr, 02C3676CD90AAA01
+
+194091, ÖĞRETİM GÖREVLİSİ, MEHMET İSEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/FİNANS BANKACILIK VE SİGORTACILIK BÖLÜMÜ/BANKACILIK VE SİGORTACILIK PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Bankacılık ve Sigortacılık, Özel Sigorta İşletmeciliği ; Hayat Sigortacılığı ; Sigorta Pazarlama, DA9D9A902A989A38
+
+248308, ÖĞRETİM GÖREVLİSİ, MEHMET AKİF KARTAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Mühendislik Temel Alanı, Makine Mühendisliği, AE61CE4E9FDBC48A
+
+14178, ÖĞRETİM GÖREVLİSİ, MELİKE BAKIRCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/NULL/NULL, Spor Bilimleri Temel Alanı, Spor Bilimleri, Antrenman ; Beden Eğitimi ve Oyun ; Fiziksel  Aktivite ve Sağlık, mbakirci[at]bandirma.edu.tr, CF92115BB4D7D8C6
+
+119117, ÖĞRETİM GÖREVLİSİ, MERAL SABANCI ATEŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/SAĞLIK KURUMLARI İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, 616E7FA74E317477
+
+330359, ÖĞRETİM GÖREVLİSİ, MERT ALPEREN DEĞERLİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/SAĞLIK KURUMLARI İŞLETMECİLİĞİ PR./, Sağlık Bilimleri Temel Alanı, Halk Sağlığı Hemşireliği, 049B4E73C1FDD29D
+
+306376, ÖĞRETİM GÖREVLİSİ, MERVE AKSU KAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Uluslararası Siyaset ; Uluslararası İlişkiler Kuramları ; Bölgesel Çalışmalar, maksu[at]bandirma.edu.tr, D2BE9EBC71D54D48
+
+325790, ÖĞRETİM GÖREVLİSİ, MERVE BEGÜM NARLI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/SÜT VE ÜRÜNLERİ TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Gıda Bilimleri ve Mühendisliği, Süt Teknolojisi ; Gıda Bilimi ; Gıda Teknolojileri, mnarli[at]bandirma.edu.tr, 1362CC92A4651303
+
+230068, ÖĞRETİM GÖREVLİSİ, MESUT ULU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Mühendislik Temel Alanı, Endüstri Mühendisliği, Yapay Zeka ; Risk Yönetimi ; Çok kriterli Karar verme, 81845D13AE2C3990
+
+332740, ÖĞRETİM GÖREVLİSİ, MUHAMMED ALİ NALBANT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Fen Bilimleri ve Matematik Temel Alanı, Moleküler Biyoloji ve Genetik, Moleküler Biyoloji ; Genetik, mnalbant[at]bandirma.edu.tr, AD35085F3F89DF34
+
+358664, ÖĞRETİM GÖREVLİSİ, MUHAMMED MURAT ÖYMEZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyaset Bilimi, 147779D3BCA9A1DF
+
+165366, ÖĞRETİM GÖREVLİSİ, MUHAMMED SALİH KAPCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/YABANCI DİLLER VE KÜLTÜRLER BÖLÜMÜ/UYGULAMALI İNGİLİZCE ÇEVİRMENLİK PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, salihkapci[at]gmail.com, 59B41920DA965585
+
+390555, ÖĞRETİM GÖREVLİSİ, MUHAMMET YÖRÜBULUT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, myörübulut[at]bandirma.edu.tr, 7CBB5EF138AF7AD9
+
+314666, ÖĞRETİM GÖREVLİSİ, MUSTAFA TAŞCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR PROGRAMCILIĞI PR./, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Gömülü Sistemler ; Elektronik ; Robotik, mtasci[at]bandirma.edu.tr, CB559E18BEE78BB5
+
+282401, ÖĞRETİM GÖREVLİSİ, MUSTAFA CEM ALDAĞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Mühendislik Temel Alanı, Makine Mühendisliği, Sonlu Elemanlar Analizi ; Algılayıcı (sensör) Teknolojileri ; Robotik, maldag[at]bandirma.edu.tr, 0E2D783F30C0C8AD
+
+43673, ÖĞRETİM GÖREVLİSİ, MÜSLÜM KOÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/GEMİ İNŞAATI PR./, Mühendislik Temel Alanı, Malzeme ve Metalurji Mühendisliği, Malzeme Bilimi ; Metalik Malzemeler ; Kaynak Teknolojileri, mkoc[at]bandirma.edu.tr, 783EE9CEAFB447C4
+
+334303, ÖĞRETİM GÖREVLİSİ, NACİYE NUR EKŞİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, neksi[at]bandirma.edu.tr, 5982A69F28A05024
+
+314920, ÖĞRETİM GÖREVLİSİ, NİLAY KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/GIDA KALİTE KONTROLÜ VE ANALİZİ PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Matematik ve Fen Bilimleri Eğitimi, nkorkmaz[at]bandirma.edu.tr, B0F0E456A87F7BA6
+
+297120, ÖĞRETİM GÖREVLİSİ, NİLÜFER AYHAN UZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ADALET MESLEK YÜKSEKOKULU/HUKUK BÖLÜMÜ/CEZA İNFAZ VE GÜVENLİK HİZMETLERİ PR./, Hukuk Temel Alanı, İş ve Sosyal Güvenlik Hukuku, İş ve Sosyal Güvenlik Hukuku, nuz[at]bandirma.edu.tr, 48E95E881F5D368B
+
+42957, ÖĞRETİM GÖREVLİSİ, NURÇİN ŞİRİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Filoloji Temel Alanı, Çeviribilim, Çeviribilim, nsirin[at]bandirma.edu.tr, 23B2711DED388189
+
+39234, ÖĞRETİM GÖREVLİSİ, NURDAN ŞAHİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/İÇ HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Dahili Hastalıklar Hemşireliği, nsahin[at]bandirma.edu.tr, 4E20166A6A058520
+
+347327, ÖĞRETİM GÖREVLİSİ, NURİ DÜRÜL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Sistem Yapısı ve Donanımı ; Bulanık Mantık ; Yapay Öğrenme, ndurul[at]bandirma.edu.tr, BA02B39A08C340C1
+
+283637, ÖĞRETİM GÖREVLİSİ, ONUR AKDOĞAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/NULL/NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Atatürk İlkeleri ve Cumhuriyet Tarihi, onur[at]bandirma.edu.tr, D1D51F69CBF77456
+
+332739, ÖĞRETİM GÖREVLİSİ, OSMAN YİĞİT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Yazılımı ; Görüntü İşleme ; Yapay Zeka, oyigit[at]bandirma.edu.tr, F13050303A3F9CE3
+
+250071, ÖĞRETİM GÖREVLİSİ, ÖMER İNAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, oinan[at]bandirma.edu.tr, 53AFABA7A83C16C4
+
+279320, ÖĞRETİM GÖREVLİSİ, ÖMER FARUK ÖZEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/YEREL YÖNETİMLER PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri, 104C017D69AE3E2A
+
+341071, ÖĞRETİM GÖREVLİSİ, ÖMÜR YILDIRIM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sinema, Film Eleştirisi ; Sinema  Sosyolojisi ; Sinema Kuramları, oyıldırım[at]bandirma.edu.tr, B9C267959A95D69D
+
+254174, ÖĞRETİM GÖREVLİSİ, ÖNDER POTUR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/TÜRK DİLİ BÖLÜMÜ/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Türkçe Eğitimi, A67CB429897404A6
+
+60108, ÖĞRETİM GÖREVLİSİ, ÖZCAN KARATABAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Muhasebe, AC1FC97B45C2CF18
+
+254713, ÖĞRETİM GÖREVLİSİ, ÖZLEM AYDOĞDU ATASOY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/OTEL LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/TURİZM VE OTEL İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Turizm Pazarlaması ; Sürdürülebilir Turizm  ; Rekreasyon Yönetimi, oatasoy[at]bandirma.edu.tr, A262911066EF0350
+
+53434, ÖĞRETİM GÖREVLİSİ, ÖZLEM MOLLAHÜSEYİNOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/ELEKTRİK VE ENERJİ BÖLÜMÜ/DOĞALGAZ VE TESİSATI TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Makine Mühendisliği, 9F40C8D271E96E52
+
+250072, ÖĞRETİM GÖREVLİSİ, ÖZLEM SEZER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/NULL/NULL, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Halkla İlişkiler, Halkla İlişkiler, 48CB66F97326CED5
+
+48387, ÖĞRETİM GÖREVLİSİ, PINAR AKPINAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, pakpinar[at]bandirma.edu.tr, 97870BF92F02B3A5
+
+300340, ÖĞRETİM GÖREVLİSİ, PINAR KURT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ/OPTİSYENLİK PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Organizasyon, pkurt[at]bandirma.edu.tr, 7989CDEDEFA5D49E
+
+118784, ÖĞRETİM GÖREVLİSİ, RAMAZAN YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/ELEKTRİK VE ENERJİ BÖLÜMÜ/İKLİMLENDİRME VE SOĞUTMA TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Makine Mühendisliği, Enerji  ; Isı Transferi ; Yenilenebilir Enerji Sistemleri, ryilmaz[at]bandirma.edu.tr, 3007C79665DC650E
+
+281988, ÖĞRETİM GÖREVLİSİ, RAMAZAN ÜLKÜ ÇETİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/GIDA KALİTE KONTROLÜ VE ANALİZİ PR./, Mühendislik Temel Alanı, Gıda Bilimleri ve Mühendisliği, Gıda Teknolojileri ; Meyve-Sebze Teknolojisi ; Fermantasyon Teknolojisi, rcetin[at]bandirma.edu.tr, 988AC4987A7A8D09
+
+387935, ÖĞRETİM GÖREVLİSİ, SAİT YEŞİLFİDAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR DESTEKLİ TASARIM VE ANİMASYON PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Bilgisayar ve Öğretim Teknolojileri Eğitimi, Bilişim Teknolojileri Eğitimi ; Öğretim Tasarımı ; Eğitim Teknolojileri, syesilfidan[at]bandirma.edu.tr, 1B3F0AC48F58D29B
+
+46349, ÖĞRETİM GÖREVLİSİ, SALİH KİRAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLİŞİM GÜVENLİĞİ TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgi Güvenliği ve Kriptoloji ; Bilgisayar Yazılımı ; Görüntü İşleme, salihkiraz[at]bandirma.edu.tr, 006F41F2AD9BA23A
+
+381983, ÖĞRETİM GÖREVLİSİ, SAMET BALTA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/ATATÜRK İLKELERİ VE İNKİLAP TARİHİ BÖLÜMÜ/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yeniçağ Tarihi, sbalta[at]bandirma.edu.tr, 898CE419D7F76EF2
+
+316335, ÖĞRETİM GÖREVLİSİ, SARA SPINA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Filoloji Temel Alanı, Çeviribilim, sspina[at]bandirma.edu.tr, 3F7A3D5DDDDA4797
+
+326830, ÖĞRETİM GÖREVLİSİ, SARE BOSTANCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/ÖZEL GÜVENLİK VE KORUMA PR./, Spor Bilimleri Temel Alanı, Spor Bilimleri, BAA1426FA3FA1CD4
+
+38189, ÖĞRETİM GÖREVLİSİ, SEDAT ERSÖZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR PROGRAMCILIĞI PR./, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, sersoz[at]bandirma.edu.tr, 38B5E02AEB177EC3
+
+301057, ÖĞRETİM GÖREVLİSİ, SEMİH SARIİPEK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/OTEL LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/TURİZM VE OTEL İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Turizm İşletmeciliği ; Turizm Pazarlaması ; Turizm Ekonomisi, ssariipek[at]bandirma.edu.tr, 09A6606E9C64DBC3
+
+29495, ÖĞRETİM GÖREVLİSİ, SERKAN YÜKSEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/GEMİ İNŞAATI PR./, Mühendislik Temel Alanı, İnşaat Mühendisliği, syuksel[at]bandirma.edu.tr, ECB4750B7BE484FA
+
+35709, ÖĞRETİM GÖREVLİSİ, SEVCAN AYPER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, sayper[at]bandirma.edu.tr, B5F9A85324F0D1D5
+
+227907, ÖĞRETİM GÖREVLİSİ, SEVİM BİLİCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ/OPTİSYENLİK PR./, Fen Bilimleri ve Matematik Temel Alanı, Fizik, Nükleer Fizik, sbilici[at]bandirma.edu.tr, 654CB7FA5CB42D08
+
+391696, ÖĞRETİM GÖREVLİSİ, TATIANA POPUNOVA ASLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, 63E43B214577F714
+
+37411, ÖĞRETİM GÖREVLİSİ, TOLGA AKAR ÇAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, tcay[at]bandirma.edu.tr, 2236C008BCE4F48D
+
+121876, ÖĞRETİM GÖREVLİSİ, TÜRKAN YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, tyilmaz[at]bandirma.edu.tr, 90A6DE02B04D4453
+
+28891, ÖĞRETİM GÖREVLİSİ, VOLKAN AKGÜL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/OTEL LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/TURİZM VE OTEL İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Turizm İşletmeciliği ; Otel İşletmeciliği, volkanakgul1[at]gmail.com, 453D81D79059ED66
+
+330409, ÖĞRETİM GÖREVLİSİ, YAKUP TOKTAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/PAZARLAMA VE REKLAMCILIK BÖLÜMÜ/MEDYA VE İLETİŞİM PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İletişim Çalışmaları, Dijital İletişim ; Yeni İletişim Teknolojileri ; Siyasal İletişim, ytoktay[at]bandirma.edu.tr, 86CE720BB997A683
+
+37123, ÖĞRETİM GÖREVLİSİ, YALKIN YALINIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Filoloji Temel Alanı, Dünya Dilleri ve Edebiyatları, Amerikan Edebiyatı, yyaliniz[at]bandirma.edu.tr, 26A313F0141DE835
+
+118859, ÖĞRETİM GÖREVLİSİ, YASEMİN OĞUZLAR TEKİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/YEREL YÖNETİMLER PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Türk Dış Politikası ; Avrupa Birliği-Türkiye İlişkileri ; Uluslararası Göç, ytekin[at]bandirma.edu.tr, 432F100E1D5BB55C
+
+306827, ÖĞRETİM GÖREVLİSİ, YASİN AVCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/TASARIM BÖLÜMÜ/GRAFİK TASARIMI PR./, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; Görsel Tasarım ; İlustrasyon, yavci[at]bandirma.edu.tr, ADBA2EA36975BBA9
+
+52374, ÖĞRETİM GÖREVLİSİ, YASİN NURİ ÇAKIR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/SOSYAL GÜVENLİK PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Gelişme Ekonomisi - Makro ; İstihdam, 701014A3FC37BEAC
+
+282990, ÖĞRETİM GÖREVLİSİ, ZEYNEP KİLCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/GIDA KALİTE KONTROLÜ VE ANALİZİ PR./, Mühendislik Temel Alanı, Gıda Bilimleri ve Mühendisliği, Gıda Teknolojileri ; Gıda Biyoteknolojisi ; Fermantasyon Teknolojisi, znale[at]bandirma.edu.tr, 2935528F49DC1207
+
+375909, ARAŞTIRMA GÖREVLİSİ, ABDALHALEEM HASSON, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/ARAP DİLİ VE BELAGATI ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, Arap Dili ve Belâgati ; İslam Mezhepleri, ahasson[at]bandirma.edu.tr, 5436E5DC012230A2
+
+263389, ARAŞTIRMA GÖREVLİSİ, ABDURRAHMAN ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/ULUSLARARASI SİYASET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, aarslan[at]bandirma.edu.tr, 10FB96A71AA1174F
+
+264365, ARAŞTIRMA GÖREVLİSİ, ABDURRAHMAN CÜNEYT AYKAÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/HUKUK BİLİMLERİ ANABİLİM DALI/, Hukuk Temel Alanı, İdare Hukuku, 0404704EFD1331F4
+
+249541, ARAŞTIRMA GÖREVLİSİ, ABDÜLKADİR TEZER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/SİYASET VE SOSYAL BİLİMLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyasal Hayat ve Kurumlar, Siyaset Sosyolojisi ; Türk Siyasal Hayatı ; Uluslararası Kurumlar, atezer[at]bandirma.edu.tr, 2EE4250EA6D9A250
+
+340387, ARAŞTIRMA GÖREVLİSİ, ARİF SAVAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Makine Mühendisliği, asavas[at]bandirma.edu.tr, 57571A53161EA477
+
+334178, ARAŞTIRMA GÖREVLİSİ, AYŞEGÜL YÜCEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ HUKUK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Mali Hukuk, ayucel[at]bandirma.edu.tr, 9FFAE93D1F9A9EE8
+
+364154, ARAŞTIRMA GÖREVLİSİ, AYŞENUR FEYZA BAYIROĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/FİZYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoloji, abayiroglu[at]bandirma.edu.tr, 54E6216C87673AEA
+
+390000, ARAŞTIRMA GÖREVLİSİ, AZİMENUR AYAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/HALKLA İLİŞKİLER VE REKLAMCILIK BÖLÜMÜ/HALKLA İLİŞKİLER VE REKLAMCILIK ANABİLİM DALI/, azimenurayaz98[at]gmail.com, 4F1E392909854EA7
+
+359778, ARAŞTIRMA GÖREVLİSİ, BAHAR KULEYİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HEMŞİRELİKTE YÖNETİM ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Hemşirelikte Yönetim, bkuleyin[at]bandirma.edu.tr, 6BEA8B947F542E30
+
+372100, ARAŞTIRMA GÖREVLİSİ, BEDİRHAN ATLI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/İLETİŞİM BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sinema, batli[at]bandirma.edu.tr, 8018A9B9061BA64E
+
+303977, ARAŞTIRMA GÖREVLİSİ, BETÜL AKALIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/HUKUK BİLİMLERİ ANABİLİM DALI/, Hukuk Temel Alanı, Medeni Hukuk, bakalin[at]bandirma.edu.tr, CFA7D5233CE7CE12
+
+364709, ARAŞTIRMA GÖREVLİSİ, BEYZA TÜRKYILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/HALKLA İLİŞKİLER VE REKLAMCILIK BÖLÜMÜ/HALKLA İLİŞKİLER VE REKLAMCILIK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Halkla İlişkiler, bturkyilmaz[at]bandirma.edu.tr, DEA6F045E8182561
+
+264188, ARAŞTIRMA GÖREVLİSİ, BUKET GÖNEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/DİYETETİK ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, bgonen[at]bandirma.edu.tr, 9F418C66E6A6CAEF
+
+308660, ARAŞTIRMA GÖREVLİSİ, BULUT OZAN CEYLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Gemi Makineleri İşletme Mühendisliği ; Gemi Ana ve Yardımcı Makineleri ; Deniz Teknolojisi, bceylan[at]bandirma.edu.tr, 3A4899E61C366053
+
+312408, ARAŞTIRMA GÖREVLİSİ, BÜŞRA DAĞCI GÜNAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HALK SAĞLIĞI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Halk Sağlığı Hemşireliği, bdagci[at]bandirma.edu.tr, B4E0C628A802DE5C
+
+189103, ARAŞTIRMA GÖREVLİSİ, CANAN DEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/KARDİYOPULMONER FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, canandemir[at]bandirma.edu.tr, FD4D20FC483443CD
+
+338499, ARAŞTIRMA GÖREVLİSİ, CEMAL YÜKSEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/COĞRAFİ BİLGİ SİSTEMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Veri Yönetimi ; Bilgi Yönetimi ; İş Analitiği, cyuksel[at]bandirma.edu.tr, 90E3998FD602BBF9
+
+215991, ARAŞTIRMA GÖREVLİSİ, CEREN ERTÜRK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/SİYASET VE SOSYAL BİLİMLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyaset Bilimi, certurk[at]bandirma.edu.tr, 1DA988B0D9D13CF7
+
+334892, ARAŞTIRMA GÖREVLİSİ, ÇAĞLAR ORAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Mikro İktisat, İktisat Teorisi, corak[at]bandirma.edu.tr, 1B19D2F0A93EE197
+
+266487, ARAŞTIRMA GÖREVLİSİ, DEMİR ALİ AKYAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/LİMAN VE GEMİ YÖNETİMİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Deniz İşletmeciliği ; Deniz Ulaşımı, DBF1165A45724DE3
+
+250082, ARAŞTIRMA GÖREVLİSİ, DERYA TOPDAĞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/İSTATİSTİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Ekonometri, Uygulamalı Mikro Ekonometri ; Panel Veri Ekonometrisi ; Ekonometri Teorisi, dtopdag[at]bandirma.edu.tr, B1C0EB937031ABDE
+
+333944, ARAŞTIRMA GÖREVLİSİ, DİLARA ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Sağlık Yönetimi, darslan[at]bandirma.edu.tr, 6C5F8979B34F73AA
+
+355859, ARAŞTIRMA GÖREVLİSİ, DİLARA ÖZEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İktisat Tarihi, Dünya İktisat Tarihi ; Türkiye İktisat Tarihi ; Osmanlı İktisat Tarihi, dozel[at]bandirma.edu.tr, 9344FF981C6B7C10
+
+302956, ARAŞTIRMA GÖREVLİSİ, DOLUNAY ÖZLEM ZEYBEK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Sağlık Ekonomisi, dkilit[at]bandirma.edu.tr, 570CF650547D6374
+
+363784, ARAŞTIRMA GÖREVLİSİ, EDA NUR DÖNMEZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/ANATOMİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Anatomi, edadonmez[at]bandirma.edu.tr, 235F8746A370380B
+
+390446, ARAŞTIRMA GÖREVLİSİ, EGE ILGIN GEDİZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/SAYISAL YÖNTEMLER ANABİLİM DALI/, ilgingediz[at]hotmail.com, E1E4ACDF448491D4
+
+248077, ARAŞTIRMA GÖREVLİSİ, ELMAS YELKESEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/YÖNETİM BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Kamu Yönetimi, Yönetim Psikolojisi ; Yönetim ve Organizasyon Eğitimi, esuluhan[at]bandirma.edu.tr, 5BF728FD67E2C29E
+
+106022, ARAŞTIRMA GÖREVLİSİ, EMRE ÇELİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK MAKİNELERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Güç Elektroniği ; Elektrik Makineleri ve Enerji Dönüşümü ; Yapay Zeka, eemree87[at]gmail.com, 4D91AE8D5E7FFF16
+
+357055, ARAŞTIRMA GÖREVLİSİ, EMRE CAN KURAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Yapay Zeka ; Bilgisayar Yazılımı ; Görüntü İşleme, ekuran[at]bandirma.edu.tr, 6823AC82E9F57F8C
+
+362893, ARAŞTIRMA GÖREVLİSİ, ERMAN ALPAGUT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Hizmet, ealpagut[at]bandirma.edu.tr, 9C5D9D22C27E5C17
+
+363425, ARAŞTIRMA GÖREVLİSİ, ESRA BALIK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Yapay Zeka ; Görüntü İşleme ; Yapay Öğrenme, ebalik[at]bandirma.edu.tr, 4E84341A0971624B
+
+253686, ARAŞTIRMA GÖREVLİSİ, ESRA KESKİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/KARDİYOPULMONER FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, F133F4FA8DA97512
+
+322199, ARAŞTIRMA GÖREVLİSİ, EYLEM İREM MORKOÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/PSİKOLOJİ BÖLÜMÜ/SOSYAL PSİKOLOJİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Psikoloji, emorkoc[at]bandirma.edu.tr, D64AFE20044866EB
+
+215142, ARAŞTIRMA GÖREVLİSİ, FADİME AKSOY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/İSTATİSTİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, İstatistiksel Analiz Ve Uygulamalar ; Zaman Serileri Analizi, fcelik[at]bandirma.edu.tr, 3387DCB537DA0DE9
+
+262250, ARAŞTIRMA GÖREVLİSİ, FATİH ERGEZER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ULAŞTIRMA MÜHENDİSLİĞİ BÖLÜMÜ/AKILLI ULAŞIM SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, İnşaat Mühendisliği, Ulaşım ve Trafik ; Ulaştırma Yapıları Mühendisliği, fergezer[at]bandirma.edu.tr, 6842A178AE9E7178
+
+216171, ARAŞTIRMA GÖREVLİSİ, FATMA ASLAN DEMİRTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/KADIN SAĞLIĞI VE HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Doğum ve Kadın Hastalıkları Hemşireliği, faslan[at]bandirma.edu.tr, 4B2925FCB26AA061
+
+353416, ARAŞTIRMA GÖREVLİSİ, FATMA KEBİRE BARDAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/TELEKOMÜNİKASYON ANABİLİM DALI/, Mühendislik Temel Alanı, Elektronik-Haberleşme Mühendisliği, Haberleşme  ; Yapay Zeka  ; İşaret İşleme, kbardak[at]bandirma.edu.tr, DDED2DCC5C2E364D
+
+306425, ARAŞTIRMA GÖREVLİSİ, FULDEN KÖMÜRYAKAN KAYGISIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/İSTATİSTİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Ekonometri, Uygulamalı Mikro Ekonometri ; Panel Veri Ekonometrisi ; Ekonometri Teorisi, fkomuryakan[at]bandirma.edu.tr, AB25FE2192A34C10
+
+375902, ARAŞTIRMA GÖREVLİSİ, FURKAN BİLİCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/TÜRK-İSLAM SANATLARI TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sanat Tarihi, Türk-İslam Sanatları Tarihi, fbilici[at]bandirma.edu.tr, 6BEB252CD603050E
+
+363632, ARAŞTIRMA GÖREVLİSİ, GİZEM KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/HİSTOLOJİ VE EMBRİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Histoloji ve Embriyoloji, gkorkmaz[at]bandirma.edu.tr, 41C272BD8C70388F
+
+269217, ARAŞTIRMA GÖREVLİSİ, GİZEM BURCU KARAALİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/YÖNETİM VE ÇALIŞMA SOSYOLOJİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; Çalışma Sosyolojisi ; Dezavantajlı Gruplar, 44ABB41F55F69F59
+
+304299, ARAŞTIRMA GÖREVLİSİ, GÖZDE GEÇİMLİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SOSYOLOJİ BÖLÜMÜ/GENEL SOSYOLOJİ VE METODOLOJİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, ggecimli[at]bandirma.edu.tr, C60071958E1A74A6
+
+265603, ARAŞTIRMA GÖREVLİSİ, GÜLSEMA ÇETİNKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/BÜTÇE VE MALİ PLANLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Bütçe ve Mali Planlama ; Kamu Maliyesi ; Kamu Ekonomisi, 06BA739336DB511B
+
+364534, ARAŞTIRMA GÖREVLİSİ, HASAN GÜLOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT POLİTİKASI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Uluslararası Finans ; Para Politikası ; Maliye Politikası, hguloglu[at]bandirma.edu.tr, FF3C46B63A1105C9
+
+362754, ARAŞTIRMA GÖREVLİSİ, HAVVA NUR ATALAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Sağlık Yönetimi, hatalay[at]bandirma.edu.tr, 960A9503671F49F8
+
+362435, ARAŞTIRMA GÖREVLİSİ, İLAYDA SEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/KADIN SAĞLIĞI VE HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Doğum ve Kadın Hastalıkları Hemşireliği, isel[at]bandirma.edu.tr, 8738719FFD17CD2C
+
+248670, ARAŞTIRMA GÖREVLİSİ, İNCİ BİLGİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/ULUSLARARASI SİYASET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, ibilgin[at]bandirma.edu.tr, 7DD9668BBF6C62F8
+
+366250, ARAŞTIRMA GÖREVLİSİ, İREM BOZDAĞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/BEDEN EĞİTİMİ VE SPOR BÖLÜMÜ/BEDEN EĞİTİMİ VE SPOR ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, ibozdag[at]bandirma.edu.tr, 23C6B53A2DE8F96A
+
+364185, ARAŞTIRMA GÖREVLİSİ, İREM HELVACIOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/ULUSLARARASI TİCARET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası Ticaret, ihelvacioglu[at]bandirma.edu.tr, 958BAFCCB6F2B17A
+
+334687, ARAŞTIRMA GÖREVLİSİ, İRFAN ÇAVUŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ İNŞAATI ANABİLİM DALI/, Mühendislik Temel Alanı, Makine Mühendisliği, icavus[at]bandirma.edu.tr, FA5A49FEF77ABE7A
+
+332608, ARAŞTIRMA GÖREVLİSİ, İRFAN YALÇIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/RADYO, TELEVİZYON VE SİNEMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sinema, irfannyalcinnn[at]gmail.com, 81F4FC68AEA9C56B
+
+303918, ARAŞTIRMA GÖREVLİSİ, KADİR PURDE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/YENİÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yeniçağ Tarihi, kpurde[at]bandirma.edu.tr, 5118245338A8B306
+
+312047, ARAŞTIRMA GÖREVLİSİ, KADRİYE SENA ERDOĞAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSADİ GELİŞME VE ULUSLARARASI İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İktisat, kerdogan[at]bandirma.edu.tr, 0DAB1E43FEE12DCE
+
+373355, ARAŞTIRMA GÖREVLİSİ, KAMİL UZGUR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/ANTRENÖRLÜK EĞİTİMİ BÖLÜMÜ/ANTRENÖRLÜK EĞİTİMİ ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Antrenman ; Egzersiz ve Spor Fizyolojisi ; Fiziksel  Aktivite ve Sağlık, kuzgur[at]bandirma.edu.tr, 5999D7B2350605F9
+
+359064, ARAŞTIRMA GÖREVLİSİ, KEZBAN ŞAHİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/TOPLU BESLENME SİSTEMLERİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, ksahin[at]bandirma.edu.tr, 75279F282260C69F
+
+363416, ARAŞTIRMA GÖREVLİSİ, KÜRŞAD ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Yazılımı ; Yapay Zeka ; Veri Madenciliği, karslan[at]bandirma.edu.tr, A9B3A43C7F3147CC
+
+331823, ARAŞTIRMA GÖREVLİSİ, MAİDE ÇAKIR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ALTERNATİF ENERJİLİ ELEKTRİK SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Görüntü İşleme ; Elektronik, maidecakir[at]bandirma.edu.tr, AAA422FCF6D4D22C
+
+365343, ARAŞTIRMA GÖREVLİSİ, MAİDE FEYZA ER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Dil İşleyiciler, mer[at]bandirma.edu.tr, B8BC3F8BEDA299EE
+
+41499, ARAŞTIRMA GÖREVLİSİ, MEHMET SERDAR ÇELİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/LİMAN VE GEMİ YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Deniz İşletmeciliği ; Stratejik Yönetim ; Uluslararası İşletmecilik, mcelik[at]bandirma.edu.tr, E7491601E7674312
+
+264372, ARAŞTIRMA GÖREVLİSİ, MELİKE SÜMEYYE ÖZEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/NÖROLOJİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, mcengiz[at]bandirma.edu.tr, AC9F3BFF5718BB58
+
+356265, ARAŞTIRMA GÖREVLİSİ, METEHAN KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/TÜRK HALK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Türk Halk Bilimi, Türkiye Sahası Türk Halk Bilimi ; Türkiye Dışındaki Türk Halk Bilimi  ; Alevilik Bektaşilik Araştırmaları, metehankorkmaz[at]bandirma.edu.tr, FCED513CB08F423A
+
+283961, ARAŞTIRMA GÖREVLİSİ, MUHAMMED ASIM ÖNCEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/AVRUPA BİRLİĞİ SİYASETİ VE ULUSLARARASI İLİŞKİLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, moncel[at]bandirma.edu.tr, 6493A77C5A3EFB4E
+
+352425, ARAŞTIRMA GÖREVLİSİ, MUHAMMED ŞAMİL BALCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/DEVRELER VE SİSTEMLER ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, mbalci[at]bandirma.edu.tr, 8D17C7DA10DE5618
+
+334540, ARAŞTIRMA GÖREVLİSİ, MUHAMMED UMAR BAYER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Makine Mühendisliği, Akustik ve Titreşimler ; Makine Teorisi ve Dinamiği ; Termodinamik, mbayer[at]bandirma.edu.tr, 2EDFE8A8FB45C551
+
+389472, ARAŞTIRMA GÖREVLİSİ, MUHAMMET FURKAN KOCA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/İŞ HUKUKU VE SOSYAL GÜVENLİK HUKUKU ANABİLİM DALI/, Hukuk Temel Alanı, İş ve Sosyal Güvenlik Hukuku, mu.furkankoca[at]gmail.com, 6E75836A01E55CC3
+
+301433, ARAŞTIRMA GÖREVLİSİ, MUHAMMET OĞUZ KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRONİK ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektronik ; Yapay Zeka ; Haberleşme, oguz.korkmaz23[at]gmail.com, AEFCEEAE0F1CC852
+
+275666, ARAŞTIRMA GÖREVLİSİ, MURAT TOPTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Görüntü İşleme ; Yapay Zeka, mtoptas[at]bandirma.edu.tr, 57F7A3D094B73869
+
+268770, ARAŞTIRMA GÖREVLİSİ, MÜCAHİT BAYKUL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Kültür Sosyolojisi ; Gençlik Sosyolojisi, 96DA1F8D141C63E5
+
+390850, ARAŞTIRMA GÖREVLİSİ, MÜSEMMA ÇÖKERDENOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/ULUSLARARASI TİCARET ANABİLİM DALI/, musemmamackrdnoglu[at]gmail.com, 686C92229FB1C435
+
+369165, ARAŞTIRMA GÖREVLİSİ, NALAN SEVİNÇLİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/MİMARLIK BÖLÜMÜ/YAPI BİLGİSİ ANABİLİM DALI/, Mimarlık-Planlama-Tasarım, Mimarlık, Mimari Tasarım ; Mimarlık ve Çevre Psikolojisi, nsevincli[at]bandirma.edu.tr, 4AFB32A1D99201FD
+
+313149, ARAŞTIRMA GÖREVLİSİ, NURSEL ŞAHİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/BESLENME BİLİMLERİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, nurselsahin[at]bandirma.edu.tr, 3A9727746AF9F077
+
+302964, ARAŞTIRMA GÖREVLİSİ, OĞUZHAN YELKESEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİYE TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Maliye Kuramı, oyelkesen[at]bandirma.edu.tr, F69DD7905D442ED3
+
+248621, ARAŞTIRMA GÖREVLİSİ, OLCAY POYRAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/ÇALIŞMA EKONOMİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; Dezavantajlı Gruplar ; Refah İktisadı, A5CA71F9B13B086F
+
+366763, ARAŞTIRMA GÖREVLİSİ, ONUR YAVAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/SOSYAL POLİTİKA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; Toplumsal Cinsiyet ; Dezavantajlı Gruplar, oyavas[at]bandirma.edu.tr, 7D2ED267AED5513F
+
+333943, ARAŞTIRMA GÖREVLİSİ, OSMAN MÜCAHİD İNCE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/SİYASİ TARİH ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Bölgesel Çalışmalar ; Ortadoğu Çalışmaları ; Afrika Çalışmaları, mince[at]bandirma.edu.tr, 729BA5DEC6E98FF5
+
+312499, ARAŞTIRMA GÖREVLİSİ, OZAN BAHADIR TÜRKMEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/ORTOPEDİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, oturkmen[at]bandirma.edu.tr, 1324621F940E8703
+
+30499, ARAŞTIRMA GÖREVLİSİ, ÖMER OCAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/YENİ TÜRK DİLİ ANABİLİM DALI/, Filoloji Temel Alanı, Türk Dili, Yeni Türk Dili (Eski Anadolu- Osmanlı- Türkiye Türkçesi), oocak[at]bandirma.edu.tr, B97BF06AB5B21761
+
+370230, ARAŞTIRMA GÖREVLİSİ, ÖMER FARUK YILDIRIM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/MUHASEBE VE FİNANSMAN ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Muhasebe, Yönetim ve Maliyet Muhasebesi  ; Finansal Muhasebe  ; Denetim, farukyildirim199718[at]gmail.com, 92CE0667BDDC9259
+
+308082, ARAŞTIRMA GÖREVLİSİ, ÖMER MİRAÇ SALİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/DEVLETLER HUKUKU ANABİLİM DALI/, Hukuk Temel Alanı, Milletlerarası Kamu Hukuku, Milletlerarası Kamu Hukuku, 3778626231602206
+
+32365, ARAŞTIRMA GÖREVLİSİ, ÖZGE BALABAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ HUKUK ANABİLİM DALI/, Hukuk Temel Alanı, Mali Hukuk, Mali Hukuk, 10AAA43619EC0799
+
+370306, ARAŞTIRMA GÖREVLİSİ, ÖZGE KOÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SOSYOLOJİ BÖLÜMÜ/KURUMLAR SOSYOLOJİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Siyaset Sosyolojisi ; Kültür Sosyolojisi, okoc[at]bandirma.edu.tr, 4A016C5A58ED3F43
+
+368305, ARAŞTIRMA GÖREVLİSİ, RAMAZAN İNAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/GRAFİK TASARIMI BÖLÜMÜ/GRAFİK TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; Görsel Tasarım ; Etkileşim Tasarımı / Gösterge Bilim, rinal[at]bandirma.edu.tr, A319EE34EFC6F263
+
+286039, ARAŞTIRMA GÖREVLİSİ, RAMAZAN MERT ATAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/DİYETETİK ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, ratan[at]bandirma.edu.tr, CB43C046D6F8F1BC
+
+334652, ARAŞTIRMA GÖREVLİSİ, RUKİYE UYANIK BAKIR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/PSİKOLOJİ BÖLÜMÜ/ENDÜSTRİ VE ÖRGÜT PSİKOLOJİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Psikoloji, Çalışma Psikolojisi ; Kişilik Psikolojisi, rbakir[at]bandirma.edu.tr, C7A4C0701000B4BB
+
+315339, ARAŞTIRMA GÖREVLİSİ, SAFA FURKAN KARACAKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/TÜRKİYE CUMHURİYETİ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Atatürk İlkeleri ve Cumhuriyet Tarihi, skaracakaya[at]bandirma.edu.tr, 791D18FE5A4E540E
+
+51394, ARAŞTIRMA GÖREVLİSİ, SAİT TAHİR ŞEKER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/ÜRETİM YÖNETİMİ VE PAZARLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, 3AE11BB25F367939
+
+303322, ARAŞTIRMA GÖREVLİSİ, SEDA ÖZVAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/MALİYE BÖLÜMÜ/MALİ İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Maliye, Mali İktisat, sozvar[at]bandirma.edu.tr, 1DAC0E418017C4E4
+
+361915, ARAŞTIRMA GÖREVLİSİ, SELİM ÇOLAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/GENEL TÜRK TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Genel Türk Tarihi, Orta Asya Tarihi ; Türk Halkları ve Toplulukları  ; Türk Kültür Tarihi, scolak[at]bandirma.edu.tr, 8FF07153673A5BDC
+
+330277, ARAŞTIRMA GÖREVLİSİ, SEMİH SEVİM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, CE15422733AB5D1B
+
+322119, ARAŞTIRMA GÖREVLİSİ, SEVGİ BATTALOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/PSİKOLOJİ BÖLÜMÜ/KLİNİK PSİKOLOJİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Klinik Psikoloji, sbattaloglu[at]bandirma.edu.tr, 9348A0870578FA9B
+
+334297, ARAŞTIRMA GÖREVLİSİ, SULTAN TEKİNYER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Hizmet, stekinyer[at]bandirma.edu.tr, 9844D70589D8F3E3
+
+369037, ARAŞTIRMA GÖREVLİSİ, SÜMEYRA GÖKÇE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/MİMARLIK BÖLÜMÜ/MİMARLIK TARİHİ ANABİLİM DALI/, Mimarlık-Planlama-Tasarım, Mimarlık, Mimarlık Tarihi, sgokce[at]bandirma.edu.tr, BAC8053D0B4FAB7F
+
+321563, ARAŞTIRMA GÖREVLİSİ, ŞERİFE GÜL AYHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/PSİKOLOJİ BÖLÜMÜ/GELİŞİM PSİKOLOJİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Gelişim Psikolojisi, F09C9973FB59DE41
+
+272857, ARAŞTIRMA GÖREVLİSİ, ŞERİFE GÜLSÜM DEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ULAŞTIRMA MÜHENDİSLİĞİ BÖLÜMÜ/AKILLI ULAŞIM SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, İnşaat Mühendisliği, Ulaşım Planlaması ; Ulaşım ve Trafik ; Ulaştırma Yapıları Mühendisliği, stac[at]bandirma.edu.tr, 50A48B24874A6BFA
+
+304144, ARAŞTIRMA GÖREVLİSİ, ŞEYMA ŞAHİNER YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/BİLİŞİM TEKNOLOJİLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Bilişim Sistemleri ; Karar Destek Sistemleri ; Süreç Yönetimi, ssahiner[at]bandirma.edu.tr, 771D9B4322C2F165
+
+345226, ARAŞTIRMA GÖREVLİSİ, ŞULE BAYRAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/GRAFİK TASARIMI BÖLÜMÜ/GRAFİK TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; Görsel Tasarım ; Etkileşim Tasarımı / Gösterge Bilim, sbayrak[at]bandirma.edu.tr, 119BED4DD9F37EB2
+
+270912, ARAŞTIRMA GÖREVLİSİ, ŞULE KEÇELİOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/ORTOPEDİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, skecelioglu[at]bandirma.edu.tr, DB71121F4FC42648
+
+389181, ARAŞTIRMA GÖREVLİSİ, TAHA ERDEM GEZE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/ESKİ TÜRK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Klasik Türk Edebiyatı, tgeze[at]bandirma.edu.tr, B4453B9F2B80F213
+
+340424, ARAŞTIRMA GÖREVLİSİ, TOLGA BERKAY ŞİRİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, tsirin[at]bandirma.edu.tr, 02C20F8F925BF94B
+
+262435, ARAŞTIRMA GÖREVLİSİ, TUBA ONAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/BESLENME BİLİMLERİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, taydin[at]bandirma.edu.tr, 5BC5D287BC855090
+
+269068, ARAŞTIRMA GÖREVLİSİ, TUĞBA SINMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/CERRAHİ HASTALIKLAR HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Cerrahi Hastalıklar Hemşireliği, tsinmaz[at]bandirma.edu.tr, ADEA26033C4F51AA
+
+390518, ARAŞTIRMA GÖREVLİSİ, TUĞBA TEKKOL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/SİBER GÜVENLİK ANABİLİM DALI/, ttekkol[at]bandirma.edu.tr, E530AD4E337D7E5D
+
+303917, ARAŞTIRMA GÖREVLİSİ, UĞUR BELEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/YAKINÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yakınçağ Tarihi, Denizcilik Tarihi ; Askeri Tarih ; Osmanlı Tarihi, ubelen[at]bandirma.edu.tr, B3EB63274AB3459E
+
+265534, ARAŞTIRMA GÖREVLİSİ, UTKU CEM KARABULUT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ HİDROMEKANİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, ukarabulut[at]bandirma.edu.tr, D450A01D7F4C0A01
+
+359148, ARAŞTIRMA GÖREVLİSİ, YUNUS BALCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK TESİSLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, ybalci[at]bandirma.edu.tr, 1D5706C2BBBA07C0
+
+321057, ARAŞTIRMA GÖREVLİSİ, YUNUS KARAKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/GENEL SANAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sanat Tarihi, Türk-İslam Sanatları Tarihi ; Resim ; Kent Tarihi, ykarakaya[at]bandirma.edu.tr, 8E7B04488A7C9E98
+
+265943, ARAŞTIRMA GÖREVLİSİ, YUNUS EMRE GÜRBÜZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İktisat Tarihi, 1F1C99EE389F57A4
+
+390156, ARAŞTIRMA GÖREVLİSİ, ZEYNEP HIDIR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/MÜTERCİM VE TERCÜMANLIK BÖLÜMÜ/İNGİLİZCE MÜTERCİM VE TERCÜMANLIK ANABİLİM DALI/, Filoloji Temel Alanı, Çeviribilim, 205EFD4494F72367
+
+250624, ARAŞTIRMA GÖREVLİSİ, ZÜLEYHA AYKUT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/CERRAHİ HASTALIKLAR HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Cerrahi Hastalıklar Hemşireliği, zuleyha.aykut[at]ege.edu.tr, 0DA28D4233493849
+
+182887, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), ABDULLAH ELEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Görüntü İşleme ; Yapay Öğrenme ; Yapay Zeka, aelen[at]bandirma.edu.tr, CEDD2EBFBD08A946
+
+39790, DOKTOR ÖĞRETİM ÜYESİ, ABDULLAH GÖKYILDIRIM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTROMANYETİK ALANLAR VE MİKRODALGA TEKNİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektromanyetik-Mikrodalga ve Anten Teknolojileri ; Devreler ve Sistemler Teorisi, agokyildirim[at]bandirma.edu.tr, 4C8EB8DB2984979E
+
+111346, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), ADEM IŞIK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/ESKİÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Eskiçağ Tarihi, Yunan ve Roma Tarihi ; Eski Anadolu Tarihi ; Eski Önasya Tarihi, 8E46C79F45034A3E
+
+21849, DOKTOR ÖĞRETİM ÜYESİ, ADEM KABASAKAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/SÜT VE ÜRÜNLERİ TEKNOLOJİSİ PR./, Ziraat ve Orman ve Su Ürünleri Temel Alanı, Zootekni, akabasakal[at]bandirma.edu.tr, 81D7AD4634DF6B89
+
+19532, DOKTOR ÖĞRETİM ÜYESİ, ADEM KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/WEB TASARIMI VE KODLAMA PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Sosyal Medya Uygulamaları ve Analizi ; Veri Yönetimi ; Bilgi Yönetimi, ademkorkmaz[at]bandirma.edu.tr, AEE094EF4A254D0B
+
+39178, DOKTOR ÖĞRETİM ÜYESİ, ADNAN ÇALIŞKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/DIŞ TİCARET BÖLÜMÜ/DIŞ TİCARET PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Büyüme ; Enflasyon ; İstihdam, acaliskan[at]bandirma.edu.tr, BE3A166A5D292E16
+
+29119, DOKTOR ÖĞRETİM ÜYESİ, ADNAN UZUN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/ESKİ TÜRK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Klasik Türk Edebiyatı, Osmanlı Sahası Klasik Türk Edebiyatı, ECF8642376A37D2A
+
+240860, DOKTOR ÖĞRETİM ÜYESİ, AHMED YUSUF SARIHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/ULUSLARARASI TİCARET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası Ticaret, İthalat İhracat Yönetimi ; Ekonomik Entegrasyon ; Uluslararası Ticaret Finansmanı, asarihan[at]bandirma.edu.tr, 66D880E664A4C516
+
+346421, DOKTOR ÖĞRETİM ÜYESİ, AHMET BALUN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/KARDİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Kardiyoloji, abalun[at]bandirma.edu.tr, 925DB1A0927CAABC
+
+366595, DOKTOR ÖĞRETİM ÜYESİ, AHMET KURTOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/ANTRENÖRLÜK EĞİTİMİ BÖLÜMÜ/ANTRENÖRLÜK EĞİTİMİ ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Engelliler için Beden Eğitimi- Spor ve Fiziksel Aktivite ; Egzersiz ve Spor Fizyolojisi, akurtoglu[at]bandirma.edu.tr, 724BC40D8126EAB8
+
+331280, DOKTOR ÖĞRETİM ÜYESİ, AHMET TERCANLIOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/GENEL SANAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Arkeoloji, Yunan ve Roma Dönemi, ahmettercanlioglu78[at]gmail.com, D7BDBA5EE758864C
+
+288130, DOKTOR ÖĞRETİM ÜYESİ, ALİ DOĞAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/NÖROLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Nöroloji, alidogan[at]bandirma.edu.tr, 79E1FFABB46CFCBD
+
+252222, DOKTOR ÖĞRETİM ÜYESİ, ALİ MAZAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/YEREL YÖNETİMLER PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Kamu Yönetimi, İnsan Kaynakları Yönetimi, mazak34[at]gmail.com, AFE292ECF2B17F47
+
+303882, DOKTOR ÖĞRETİM ÜYESİ, ALİ FUAT ALTUNTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/YENİ TÜRK DİLİ ANABİLİM DALI/, Filoloji Temel Alanı, Türk Dili, Yeni Türk Dili (Eski Anadolu- Osmanlı- Türkiye Türkçesi), aaltuntas[at]bandirma.edu.tr, B42B065C47FB2344
+
+120272, DOKTOR ÖĞRETİM ÜYESİ, ALİCAN DOĞAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/BİLİŞİM TEKNOLOJİLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Veri Madenciliği, alicandogan[at]bandirma.edu.tr, 7C2055325F99049B
+
+345331, DOKTOR ÖĞRETİM ÜYESİ, ALKAME AKGÜMÜŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/KARDİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Kardiyoloji, aakgumus[at]bandirma.edu.tr, 3275D4FD5137BA7D
+
+346733, DOKTOR ÖĞRETİM ÜYESİ, ALPASLAN FEDAYİ ÇALTA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/GENEL CERRAHİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Genel Cerrahi, acalta[at]bandirma.edu.tr, C7C0ED3DF5C616AC
+
+55830, DOKTOR ÖĞRETİM ÜYESİ, ALPAY DORUK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/SİBER GÜVENLİK ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Yazılımı ; Bilgi Güvenliği ve Kriptoloji ; Gömülü Sistemler, adoruk[at]bandirma.edu.tr, 730CCA7AB87D27DB
+
+175404, DOKTOR ÖĞRETİM ÜYESİ, ALPER ÖZBOYACI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ADALET MESLEK YÜKSEKOKULU/HUKUK BÖLÜMÜ/ADALET PR./, Hukuk Temel Alanı, Ticaret Hukuku, Ticaret Hukuku, aozboyaci[at]bandirma.edu.tr, 0E2B6F654323D803
+
+45710, DOKTOR ÖĞRETİM ÜYESİ, ALPTEKİN MOLLA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/ULUSLARARASI SİYASET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Türk Dış Politikası ; Uluslararası Siyaset ; Amerika Çalışmaları, amolla[at]bandirma.edu.tr, D5AF76B4F4A6ECDC
+
+103825, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), ARMAĞAN TÜRK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Büyüme ; Uluslararası Finans ; Gelişme Ekonomisi - Makro, aturk[at]bandirma.edu.tr, 4CA60D41DC9F9651
+
+354965, DOKTOR ÖĞRETİM ÜYESİ, ARZU BULUT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Sağlık Kurumları Yönetimi ; Örgütsel Davranış, abulut[at]bandirma.edu.tr, 6747DE187EB736C8
+
+16556, DOKTOR ÖĞRETİM ÜYESİ, ARZUM KARATAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, E4C9B752BCC26181
+
+36063, DOKTOR ÖĞRETİM ÜYESİ, ASLI KAVURMACI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/İŞ HUKUKU VE SOSYAL GÜVENLİK HUKUKU ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri, akavurmaci[at]bandirma.edu.tr, A1DB41AF236C0C13
+
+21534, DOKTOR ÖĞRETİM ÜYESİ, AYÇA ÖZEKİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/YÖNEYLEM ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, Yöneylem Araştırması ; Çok Kıstaslı Karar Verme ; İstatistiksel Analiz Ve Uygulamalar, aozekin[at]bandirma.edu.tr, EA536D551E87722B
+
+54378, DOKTOR ÖĞRETİM ÜYESİ, AYKUT DİKER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Yazılımı, adiker[at]bandirma.edu.tr, 91AAB4AE689335DA
+
+36625, DOKTOR ÖĞRETİM ÜYESİ, AYLİN AKINLAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/HALKLA İLİŞKİLER VE REKLAMCILIK BÖLÜMÜ/HALKLA İLİŞKİLER VE REKLAMCILIK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yükseköğretim Çalışmaları, Yükseköğretimde Uluslararasılaşma ; Yükseköğretimde Program Geliştirme ve Yeterlilikler, aakinlar[at]bandirma.edu.tr, 5318040E9C46AFC1
+
+278327, DOKTOR ÖĞRETİM ÜYESİ, AYSEL KURNAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/İLETİŞİM BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, akurnaz[at]bandirma.edu.tr, A3040E573650C8A1
+
+384859, DOKTOR ÖĞRETİM ÜYESİ, AYŞE BAT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/MÜHENDİSLİK TEMEL BİLİMLERİ BÖLÜMÜ/MÜHENDİSLİK TEMEL BİLİMLERİ ANABİLİM DALI/, Fen Bilimleri ve Matematik Temel Alanı, Fizik, Yüksek Enerji ve Parçacık Fiziği ; Hızlandırıcı Dedektör Fiziği, abat[at]bandirma.edu.tr, 575039711083B476
+
+13791, DOKTOR ÖĞRETİM ÜYESİ, AYŞE ÇİÇEK KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HEMŞİRELİKTE YÖNETİM ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Hemşirelikte Yönetim, akorkmaz[at]bandirma.edu.tr, 2984BA93C2E67AFE
+
+268673, DOKTOR ÖĞRETİM ÜYESİ, AYŞE SİNEM TAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HEMŞİRELİK ESASLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Hemşirelik Esasları, asinemtozlu[at]gmail.com, 79052C551FE61083
+
+36011, DOKTOR ÖĞRETİM ÜYESİ, AYTAÇ TOPTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/SAĞLIK TURİZMİ İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Uluslararası İşletmecilik ; Stratejik Yönetim ; Örgüt ve Grup İletişimi, atoptas[at]bandirma.edu.tr, 427682F0B86F85D8
+
+304540, DOKTOR ÖĞRETİM ÜYESİ, BAHAR MİLANİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/BİLGİSAYAR BİLİMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgi Güvenliği ve Kriptoloji ; Bilgisayar Yazılımı, bmilani[at]bandirma.edu.tr, 572CD5D71410455A
+
+128761, DOKTOR ÖĞRETİM ÜYESİ, BARIŞ GÜRCAN HAKANOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTROMANYETİK ALANLAR VE MİKRODALGA TEKNİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektromanyetik-Mikrodalga ve Anten Teknolojileri ; İşaret İşleme ; Optik- Fotonik, bghakanoglu[at]gmail.com, E497571276305563
+
+342136, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), BEKİR ÇAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/BEDEN EĞİTİMİ VE SPOR BÖLÜMÜ/BEDEN EĞİTİMİ VE SPOR ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Beden Eğitimi ve Spor Pedagojisi, bcar[at]bandirma.edu.tr, 9033747D949FAD05
+
+34099, DOKTOR ÖĞRETİM ÜYESİ, BERNA AKAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/İÇ HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Dahili Hastalıklar Hemşireliği, bakay[at]bandirma.edu.tr, CAA5645D3186FE49
+
+35448, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), BERNA AYAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/TÜRK HALK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Türk Halk Bilimi, Türkiye Sahası Türk Halk Bilimi ; Türkiye Dışındaki Türk Halk Bilimi  ; Alevilik Bektaşilik Araştırmaları, bayaz[at]bandirma.edu.tr, BA47DFD95AC070B9
+
+43702, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), BERNA KÖKTÜRK DALCALI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HEMŞİRELİK ESASLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Hemşirelik Esasları, bdalcali[at]bandirma.edu.tr, EAD28A61680C66ED
+
+349310, DOKTOR ÖĞRETİM ÜYESİ, BİHTER ŞAHİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/KİMYA VE KİMYASAL İŞLEME TEKNOLOJİLERİ BÖLÜMÜ/LABORATUVAR TEKNOLOJİSİ PR./, Fen Bilimleri ve Matematik Temel Alanı, Kimya, Spektroskopi ; Organik Kimya ; Analitik Kimya, bihtershn89[at]gmail.com, A49E66BD29320A4B
+
+254595, DOKTOR ÖĞRETİM ÜYESİ, BİLAL COŞAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/ÇALIŞMA EKONOMİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Dezavantajlı Gruplar ; Çalışma Ekonomisi ve İktisadi Demografi, bcosan[at]bandirma.edu.tr, 4F08B8A83BED77E2
+
+119593, DOKTOR ÖĞRETİM ÜYESİ, BİLAL EZİLMEZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Örgütsel Davranış ; İnsan Kaynakları Yönetimi ; Yönetim Psikolojisi, bezilmez[at]bandirma.edu.tr, 860E603059EDE542
+
+303124, DOKTOR ÖĞRETİM ÜYESİ, BUKET TOPTAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Görüntü İşleme, btoptas[at]bandirma.edu.tr, A5253F7CEB37DD31
+
+198512, DOKTOR ÖĞRETİM ÜYESİ, BURAK ALTINDAĞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/AİLE HEKİMLİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Aile Hekimliği, baltindag[at]bandirma.edu.tr, 62E6457C231D4B71
+
+254192, DOKTOR ÖĞRETİM ÜYESİ, BURAK YAPRAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, 71D9D13C8A31B326
+
+291273, DOKTOR ÖĞRETİM ÜYESİ, BURÇİN AKÇAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/NÖROLOJİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, akcayburcin[at]gmail.com, 24C89DBB06AEFFDF
+
+227111, DOKTOR ÖĞRETİM ÜYESİ, BURÇİN ÖZKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ALTERNATİF ENERJİLİ ELEKTRİK SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Güç Elektroniği ; Elektrik Enerjisi ve Güç Sistemleri ; Yapay Zeka, bozkaya[at]bandirma.edu.tr, 83F7EC6612D5C1C1
+
+381529, DOKTOR ÖĞRETİM ÜYESİ, BURHAN AKMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/ÜROLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Üroloji, bakman[at]bandirma.edu.tr, 7A9B6688F9DF049D
+
+16281, DOKTOR ÖĞRETİM ÜYESİ, BÜŞRA SÜNGÜ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/BEDEN EĞİTİMİ VE SPOR BÖLÜMÜ/BEDEN EĞİTİMİ VE SPOR ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Engelliler için Beden Eğitimi- Spor ve Fiziksel Aktivite ; Beden Eğitimi ve Oyun ; Fiziksel  Aktivite ve Sağlık, bsungu[at]bandirma.edu.tr, BD0DC4DE3631C2C1
+
+250469, DOKTOR ÖĞRETİM ÜYESİ, BÜŞRA YAMAN TOPAÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/MÜTERCİM VE TERCÜMANLIK BÖLÜMÜ/İNGİLİZCE MÜTERCİM VE TERCÜMANLIK ANABİLİM DALI/, Filoloji Temel Alanı, Çeviribilim, AA33FCF1C3C5715E
+
+268390, DOKTOR ÖĞRETİM ÜYESİ, CANAN BOZKURT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/İÇ HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Dahili Hastalıklar Hemşireliği, cbozkurt[at]bandirma.edu.tr, 1C7B05E50F67C03E
+
+250074, DOKTOR ÖĞRETİM ÜYESİ, CANER PENSE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ULAŞTIRMA MÜHENDİSLİĞİ BÖLÜMÜ/AKILLI ULAŞIM SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Deniz Ulaştırma Mühendisliği ; Güverte ve Seyir Mühendisliği ; Deniz Ulaşımı, cpense[at]bandirma.edu.tr, EC46F930D19AEA68
+
+48051, DOKTOR ÖĞRETİM ÜYESİ, CEMAL ÇELİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Süreç Yönetimi ; E-Ticaret ; İş Analitiği, ccelik[at]bandirma.edu.tr, 92BEE603C3577022
+
+46867, DOKTOR ÖĞRETİM ÜYESİ, CEMİL KÖZKURT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ULAŞTIRMA MÜHENDİSLİĞİ BÖLÜMÜ/ULAŞTIRMA ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Yapay Zeka ; Robotik, ckozkurt[at]bandirma.edu.tr, A57D6C1013336733
+
+133388, DOKTOR ÖĞRETİM ÜYESİ, CENGİZ ŞEKER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/OSMANLI MÜESSESELERİ VE MEDENİYETİ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Osmanlı Kurumları ve Medeniyeti, B6A5CF42A62A7A09
+
+269586, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), CEYDA TUNA KOCAOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/ATATÜRK İLKELERİ VE İNKİLAP TARİHİ BÖLÜMÜ/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Atatürk İlkeleri ve Cumhuriyet Tarihi, Atatürk İlkeleri ve Cumhuriyet Tarihi, ckocaoglu[at]bandirma.edu.tr, 4A215B208112EC2D
+
+206417, DOKTOR ÖĞRETİM ÜYESİ, ÇAĞLAR BURAK BURTAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ADALET MESLEK YÜKSEKOKULU/HUKUK BÖLÜMÜ/CEZA İNFAZ VE GÜVENLİK HİZMETLERİ PR./, Hukuk Temel Alanı, İdare Hukuku, İdare Hukuku, cburtan[at]bandirma.edu.tr, 70DD7DC097B5CFF9
+
+261436, DOKTOR ÖĞRETİM ÜYESİ, DERYA AZİM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/NÖROLOJİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, 61813A9148D54F26
+
+55874, DOKTOR ÖĞRETİM ÜYESİ, DERYA BABACAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/VETERİNERLİK BÖLÜMÜ/LABORANT VE VETERİNER SAĞLIK PR./, Fen Bilimleri ve Matematik Temel Alanı, Biyoloji, Moleküler Biyoloji ; Genetik ; Hücre Biyolojisi, dokuyan[at]bandirma.edu.tr, 59F87AD05F0848F0
+
+303978, DOKTOR ÖĞRETİM ÜYESİ, DERYA GÜLLÜK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/YENİ TÜRK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Yeni Türk Edebiyatı, Türkiye Sahası Yeni Türk Edebiyatı, deryagulluk[at]gmail.com, 8BADB8B725050A71
+
+124637, DOKTOR ÖĞRETİM ÜYESİ, DEVRAN DENİZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/MUHASEBE VE FİNANSMAN ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Yatırımlar ve Portföy Yönetimi ; Finansal Risk Yönetimi ; Bankacılık, ddeniz[at]bandirma.edu.tr, 9410C413D840E6EE
+
+282397, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), DİDEM AYHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/RUH SAĞLIĞI VE PSİKİYATRİ HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Psikiyatri Hemşireliği, dayhan[at]bandirma.edu.tr, 0094EBAC9BA6325A
+
+156082, DOKTOR ÖĞRETİM ÜYESİ, DUYGU DURMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/KALP VE DAMAR CERRAHİSİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Kalp ve Damar Cerrahisi, ddurmaz[at]bandirma.edu.tr, E0F7CBEE6F2A743E
+
+304552, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), EKREM SEVİM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Sağlık Kurumları Yönetimi ; Stratejik Yönetim ; Örgütsel Davranış, esevim[at]bandirma.edu.tr, 5099B7D236458CCA
+
+230433, DOKTOR ÖĞRETİM ÜYESİ, ELİF KOÇ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/LOJİSTİK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası Ticaret, Uluslararası Lojistik ; Uluslararası Pazarlama, elifkoc[at]bandirma.edu.tr, E96EEE098781DE55
+
+384773, DOKTOR ÖĞRETİM ÜYESİ, EMEL UZUNER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/GRAFİK TASARIMI BÖLÜMÜ/GRAFİK TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; Görsel Tasarım ; İlustrasyon, euzuner[at]bandirma.edu.tr, A10FD3C02E1EE59D
+
+299345, DOKTOR ÖĞRETİM ÜYESİ, EMRAH AKDAMAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/DENİZCİLİK EKONOMİSİ VE POLİTİKALARI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, Çok Kıstaslı Karar Verme, eakdamar[at]bandirma.edu.tr, AF3EDB4C7F72EC8C
+
+163219, DOKTOR ÖĞRETİM ÜYESİ, EMRAH DÖNMEZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Robotik ; Yapay Öğrenme ; Görüntü İşleme, emrahdonmez[at]bandirma.edu.tr, F067453DD40141C1
+
+108551, DOKTOR ÖĞRETİM ÜYESİ, EMRAH UTKU GÖKÇE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/ÖZEL GÜVENLİK VE KORUMA PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Uluslararası İlişkiler Kuramları, egokce[at]bandirma.edu.tr, D21619A8BCB86933
+
+329113, DOKTOR ÖĞRETİM ÜYESİ, EMRE ALARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/ET VE ÜRÜNLERİ TEKNOLOJİSİ PR./, Ziraat ve Orman ve Su Ürünleri Temel Alanı, Zootekni, Küçükbaş Hayvan Yetiştirme ve Islahı ; Büyükbaş Hayvan Yetiştirme ve Islahı ; Kanatlı Hayvan Yetiştirme ve Islahı, DE619EE2E9043D9B
+
+155363, DOKTOR ÖĞRETİM ÜYESİ, EMRE AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/NÖROLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Nöroloji, eaydin[at]bandirma.edu.tr, 7ED07AA5499924F3
+
+257347, DOKTOR ÖĞRETİM ÜYESİ, EMRE ÇİYDEM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/RUH SAĞLIĞI VE PSİKİYATRİ HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Psikiyatri Hemşireliği, eciydem[at]bandirma.edu.tr, 2B561C46C1A92CF7
+
+47544, DOKTOR ÖĞRETİM ÜYESİ, EMRE TAŞKIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/TIBBİ GENETİK ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Tıbbi Genetik, emretaskin[at]gmail.com, 67690DD3D5E2BCF3
+
+23522, DOKTOR ÖĞRETİM ÜYESİ, EMRE YILDIRIM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/SİYASET VE SOSYAL BİLİMLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyaset Bilimi, Siyasal Akımlar ve Siyasal Düşünce Tarihi ; Türk Siyasal Hayatı ; Siyaset Sosyolojisi, eyildirim[at]bandirma.edu.tr, E850C38AC37D39A0
+
+16439, DOKTOR ÖĞRETİM ÜYESİ, ENDER YALÇIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZ ULAŞTIRMA İŞLETME MÜHENDİSLİĞİ BÖLÜMÜ/DENİZ ULAŞTIRMA İŞLETME MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Deniz Ulaştırma Mühendisliği ; Deniz İşletmeciliği ; Gemi Yönetimi, eyalcin[at]bandirma.edu.tr, 8F60D923051FE54D
+
+216232, DOKTOR ÖĞRETİM ÜYESİ, ENGİN AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/ÇOCUK SAĞLIĞI VE HASTALIKLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Çocuk Sağlığı ve Hastalıkları, BFB72A25BD6B2C45
+
+31653, DOKTOR ÖĞRETİM ÜYESİ, ENGİN DEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ/ÇOCUK GELİŞİMİ PR./, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Eğitim Bilimleri, Eğitim Programları ve Öğretim, engindemir[at]bandirma.edu.tr, 093F67679204736B
+
+350595, DOKTOR ÖĞRETİM ÜYESİ, ENSAR EREL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/KİMYA VE KİMYASAL İŞLEME TEKNOLOJİLERİ BÖLÜMÜ/LABORATUVAR TEKNOLOJİSİ PR./, Fen Bilimleri ve Matematik Temel Alanı, Kimya, Biyokimya, C934B1A890153F1B
+
+54418, DOKTOR ÖĞRETİM ÜYESİ, ERKAN SOLMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/PAZARLAMA VE REKLAMCILIK BÖLÜMÜ/MEDYA VE İLETİŞİM PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Gazetecilik ve Medya Çalışmaları, Gazetecilik ; Medya Okuryazarlığı ; Medya Araştırmaları, esolmaz[at]bandirma.edu.tr, 4A57DFCA2D978785
+
+17044, DOKTOR ÖĞRETİM ÜYESİ, ERSAN SARIKAHYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/GRAFİK TASARIMI BÖLÜMÜ/GRAFİK TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; İlustrasyon ; Etkileşim Tasarımı / Gösterge Bilim, D5BB54FF8D985598
+
+38451, DOKTOR ÖĞRETİM ÜYESİ, ERSİN FIRAT AKGÜL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/DENİZCİLİK EKONOMİSİ VE POLİTİKALARI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Yatırımlar ve Portföy Yönetimi ; Finansal Tahmin ve Modelleme  ; Davranışsal Finans, eakgul[at]bandirma.edu.tr, 3B7B53E7EBF8D2A3
+
+181935, DOKTOR ÖĞRETİM ÜYESİ, ERSOY KUTLUK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/SİYASET VE SOSYAL BİLİMLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Kamu Yönetimi, Stratejik Yönetim ; Kriz ve Konu Yönetimi ; Afet- Risk Yönetimi ve Sakınım Planlaması, ekutluk[at]bandirma.edu.tr, 35AD399B33496AB1
+
+363377, DOKTOR ÖĞRETİM ÜYESİ, ESER ÇALIKUŞU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/TÜRK-İSLAM SANATLARI TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sanat Tarihi, Türk-İslam Sanatları Tarihi ; Mimarlık Tarihi ; Kültürel ve Doğal Miras, ecalikusu[at]bandirma.edu.tr, CA94CEEA8B382FCC
+
+264603, DOKTOR ÖĞRETİM ÜYESİ, ESRA TANİ YILDIZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/YENİ MEDYA VE GAZETECİLİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İletişim Çalışmaları, Yeni İletişim Teknolojileri ; Dijital İletişim, etani[at]bandirma.edu.tr, B7C1BEE612A58009
+
+49695, DOKTOR ÖĞRETİM ÜYESİ, EVREN İŞEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK MAKİNELERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Güç Elektroniği ; Yenilenebilir Enerji Sistemleri, eisen[at]bandirma.edu.tr, D5CBE6CABAC2577E
+
+36243, DOKTOR ÖĞRETİM ÜYESİ, FAHRETTİN BURAK DEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Algoritmalar ve Hesaplama Kuramı ; Robotik ; Biyoenformatik, fdemir[at]bandirma.edu.tr, E1D7711F2A50C820
+
+298355, DOKTOR ÖĞRETİM ÜYESİ, FATİH SARIKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/ORTAÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Ortaçağ Tarihi, Selçuklu Tarihi ; Ortaçağ Halk Kültürü ; Müslüman Türk Devletleri ve Toplumları Tarihi, BD8F17385C0823E5
+
+14457, DOKTOR ÖĞRETİM ÜYESİ, FATİH ŞAHİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Dijital Pazarlama ; Tüketici Davranışları ; Ürün ve Marka Yönetimi, fsahin[at]bandirma.edu.tr, 2317440F7EA590C5
+
+114942, DOKTOR ÖĞRETİM ÜYESİ, FATMA NUR YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/NÖROLOJİK FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, A0E76DFF492E835E
+
+326746, DOKTOR ÖĞRETİM ÜYESİ, FERHAT YALGIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/SU ALTI TEKNOLOJİSİ PR./, Ziraat ve Orman ve Su Ürünleri Temel Alanı, Su Ürünleri, fyalgin[at]bandirma.edu.tr, E6726DD07214249A
+
+321558, DOKTOR ÖĞRETİM ÜYESİ, FERUDUN AY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/YENİ TÜRK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Yeni Türk Edebiyatı, Türkiye Sahası Yeni Türk Edebiyatı, fay[at]bandirma.edu.tr, 3880464FE1A53C53
+
+322499, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), FİKRİ KELEŞOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Hizmet, Aile Sosyolojisi ; Aile Kaynakları Eğitimi ; Modernleşme Sosyolojisi, fkelesoglu[at]bandirma.edu.tr, 142494D963AB51A2
+
+132881, DOKTOR ÖĞRETİM ÜYESİ, FİLİZ BAYAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/ENFEKSİYON HASTALIKLARI VE KLİNİK MİKROBİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji, 835D9982EBFCC7FA
+
+200854, DOKTOR ÖĞRETİM ÜYESİ, FULYA DOĞRUEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SOSYOLOJİ BÖLÜMÜ/UYGULAMALI SOSYOLOJİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Etnoloji ; Beden Sosyolojisi ; Toplumsal Cinsiyet, 1D9D49AAA283C6DB
+
+38260, DOKTOR ÖĞRETİM ÜYESİ, FUNDA BATTAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK MAKİNELERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektrik Makineleri ve Enerji Dönüşümü ; Güç Elektroniği ; Yenilenebilir Enerji Sistemleri, fbattal[at]bandirma.edu.tr, 52562269AEC7D492
+
+327201, DOKTOR ÖĞRETİM ÜYESİ, FÜSUN ESENKAL ÇÖZELİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/SAĞLIK TURİZMİ İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Turizm İşletmeciliği ; Turizm Pazarlaması ; Otel İşletmeciliği, fcozeli[at]bandirma.edu.tr, 4E9026C1F1F28F64
+
+327914, DOKTOR ÖĞRETİM ÜYESİ, GİZEM BAŞKAYA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/ANTRENÖRLÜK EĞİTİMİ BÖLÜMÜ/ANTRENÖRLÜK EĞİTİMİ ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Antrenman ; Egzersiz ve Spor Fizyolojisi, gbaskaya[at]bandirma.edu.tr, 9778958D629DFDEE
+
+38514, DOKTOR ÖĞRETİM ÜYESİ, GÖNÜL YILMAZ DÜNDAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/CERRAHİ HASTALIKLAR HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Cerrahi Hastalıklar Hemşireliği, gyilmaz[at]bandirma.edu.tr, 5B17762494DB0C07
+
+131556, DOKTOR ÖĞRETİM ÜYESİ, GÜLDEN POYRAZ ŞENGÜN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/DIŞ TİCARET BÖLÜMÜ/DIŞ TİCARET PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Sermaye Piyasaları ; Para-Banka ; Uluslararası Finans, poyrazgulden06[at]gmail.com, 36843503F2DFB217
+
+200095, DOKTOR ÖĞRETİM ÜYESİ, GÜLDEN TAŞOVA YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/TIBBİ PATOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Tıbbi Patoloji, gtasova[at]bandirma.edu.tr, 2E626DB7A6529061
+
+223736, DOKTOR ÖĞRETİM ÜYESİ, GÜLHAN YILMAZ GÖKMEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/FİZYOTERAPİ VE REHABİLİTASYON BÖLÜMÜ/KARDİYOPULMONER FİZYOTERAPİ VE REHABİLİTASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, ggokmen[at]bandirma.edu.tr, D1AC60993E325CFE
+
+236397, DOKTOR ÖĞRETİM ÜYESİ, GÜLŞEN ÖZTÜRK ÖRMECİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/ACİL TIP ANABİLİM DALI/, 94493BA0120A5132
+
+215018, DOKTOR ÖĞRETİM ÜYESİ, HAKAN ÖNDES, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/EKONOMETRİ BÖLÜMÜ/İSTATİSTİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Ekonometri, hondes[at]bandirma.edu.tr, F6417B2AD653668C
+
+252218, DOKTOR ÖĞRETİM ÜYESİ, HASAN TÜRKMEN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/KELAM VE İTİKADİ İSLAM MEZHEPLERİ ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, Kelam  ; İslam Mezhepleri, hasanturkmen[at]bandirma.edu.tr, 2E3E9C21AB49BB55
+
+145734, DOKTOR ÖĞRETİM ÜYESİ, HATİCE YALMAN KOŞUNALP, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Fen Bilimleri ve Matematik Temel Alanı, Matematik, Uygulamalı Matematik ; Matematiksel Analiz ; Matematiğin Temelleri ve Matematiksel Mantık, hkosunalp[at]bandirma.edu.tr, 40A14B63ABEFE498
+
+264608, DOKTOR ÖĞRETİM ÜYESİ, HAVVA GÖZGEÇ MUTLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/SAĞLIK TURİZMİ İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Turizm İşletmeciliği ; Turizm Pazarlaması ; Gastronomi, hgozgec[at]bandirma.edu.tr, D82FD318571908F3
+
+354810, DOKTOR ÖĞRETİM ÜYESİ, HAZEL ÇELİK GÜZEL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TERAPİ VE REHABİLİTASYON BÖLÜMÜ/FİZYOTERAPİ PR./, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, hguzel[at]bandirma.edu.tr, C56B24A77A2174A6
+
+36071, DOKTOR ÖĞRETİM ÜYESİ, HİCRAN SEREL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSADİ GELİŞME VE ULUSLARARASI İKTİSAT ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İktisat, Uluslararası İktisadi Kurumlar ; Uluslararası Ticaret, hserel[at]bandirma.edu.tr, D8DB4D2887A19290
+
+206446, DOKTOR ÖĞRETİM ÜYESİ, HÜLYA YILMAZ BAŞER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/ACİL TIP ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Acil Tıp, hbaser[at]bandirma.edu.tr, 06B19EC38D2733B5
+
+53590, DOKTOR ÖĞRETİM ÜYESİ, HÜSEYİN GÜVENOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TEORİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Büyüme ; Para Politikası ; Uluslararası Finans, hguvenoglu[at]bandirma.edu.tr, 805B3D67ED8BEB55
+
+330688, DOKTOR ÖĞRETİM ÜYESİ, İBRAHİM YILMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/GRAFİK TASARIMI BÖLÜMÜ/GRAFİK TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı, iyilmaz[at]bandirma.edu.tr, 0C5B964563D02578
+
+265955, DOKTOR ÖĞRETİM ÜYESİ, İLKNUR TANRIVERDİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/LOJİSTİK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası Ticaret, Uluslararası Pazarlama ; Uluslararası Lojistik ; İthalat İhracat Yönetimi, itanriverdi[at]bandirma.edu.tr, 2CBEF4C1C7048573
+
+302085, DOKTOR ÖĞRETİM ÜYESİ, İNCİ MERVE ALTAN ERSÖZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Finansal Piyasalar ve Kurumlar   ; Finansal Tahmin ve Modelleme  ; Bankacılık, AA714A988CFD6191
+
+120379, DOKTOR ÖĞRETİM ÜYESİ, İPEK TOK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/YENİ MEDYA VE GAZETECİLİK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Gazetecilik ve Medya Çalışmaları, ikumcuoglu[at]bandirma.edu.tr, 07B19ECCCF7B959E
+
+304623, DOKTOR ÖĞRETİM ÜYESİ, İSMAİL DORU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/PAZARLAMA VE REKLAMCILIK BÖLÜMÜ/MEDYA VE İLETİŞİM PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İletişim Çalışmaları, İletişim Araştırmaları ; Yeni İletişim Teknolojileri ; İletişim Sosyolojisi, idoru[at]bandirma.edu.tr, F611F6CAF4BE2853
+
+268553, DOKTOR ÖĞRETİM ÜYESİ, KAAN ÇELİKOK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/DIŞ TİCARET BÖLÜMÜ/DIŞ TİCARET PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İktisat, Uluslararası Ticaret ; Uluslararası İktisadi Kurumlar ; Uluslararası Politik İktisat, kcelikok[at]bandirma.edu.tr, 159FCAD1D13B3094
+
+46088, DOKTOR ÖĞRETİM ÜYESİ, KADİR İLERİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/TELEKOMÜNİKASYON ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, kileri[at]bandirma.edu.tr, 985B1480D344D85E
+
+16385, DOKTOR ÖĞRETİM ÜYESİ, KEREM ÖZDEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ/TIBBİ GÖRÜNTÜLEME TEKNİKLERİ PR./, Fen Bilimleri ve Matematik Temel Alanı, Biyoloji, Bakteriyoloji, keremozdemir[at]bandirma.edu.tr, 5E7010A1F7CF44A1
+
+106731, DOKTOR ÖĞRETİM ÜYESİ, KUTLUCAN GÖRÜR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/KONTROL VE KUMANDA SİSTEMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Biyomedikal ; Gömülü Sistemler ; Elektronik, 4440CD53ED18C520
+
+48561, DOKTOR ÖĞRETİM ÜYESİ, LUTFİ YALÇIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/SİYASET VE SOSYAL BİLİMLER ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Kamu Yönetimi, Katılım ve Yönetişim ; Yönetim ve Organizasyon Eğitimi ; İnsan Kaynakları Yönetimi, lyalcin[at]bandirma.edu.tr, 4DF71EB0A879185C
+
+58645, DOKTOR ÖĞRETİM ÜYESİ, MARUF GÖGEBAKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/DENİZCİLİK EKONOMİSİ VE POLİTİKALARI ANABİLİM DALI/, Fen Bilimleri ve Matematik Temel Alanı, İstatistik, Uygulamalı İstatistik  ; İstatistiksel Analiz ; Teorik İstatistik, mgogebakan[at]bandirma.edu.tr, 9BA7133786D80FA5
+
+375916, DOKTOR ÖĞRETİM ÜYESİ, MEHMED ZAHİD TIĞLIOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/TEFSİR ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, Tefsir, mztigli[at]gmail.com, 8A41C2E20E62C4D5
+
+359840, DOKTOR ÖĞRETİM ÜYESİ, MEHMET ERÇORUMLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/SOSYAL GÜVENLİK PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; Dezavantajlı Gruplar ; Sosyal Güvenlik, mercorumlu[at]bandirma.edu.tr, 8EFAC487C9CB1B0E
+
+341970, DOKTOR ÖĞRETİM ÜYESİ, MEHMET AKİF BİLİCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/KUR'AN-I KERİM OKUMA VE KIRÂAT İLMİ ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, Kur’an-ı Kerim Okuma ve Kıraat, mbilici[at]bandirma.edu.tr, 65D4F5CC46713B53
+
+366036, DOKTOR ÖĞRETİM ÜYESİ, MEHMET AKİF ÇİFÇİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/BİLGİSAYAR DONANIMI ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Yapay Zeka ; Görüntü İşleme ; Programlama Dilleri, mcifci[at]bandirma.edu.tr, FBB3D880FC07F214
+
+225996, DOKTOR ÖĞRETİM ÜYESİ, MEHMET SİNAN TAM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/HALKLA İLİŞKİLER VE REKLAMCILIK BÖLÜMÜ/HALKLA İLİŞKİLER VE REKLAMCILIK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İletişim Çalışmaları, Dijital İletişim ; İletişim Araştırmaları ; Siyasal İletişim, mtam[at]bandirma.edu.tr, 329A148FC1BF7EE2
+
+113322, DOKTOR ÖĞRETİM ÜYESİ, MEHMET ZAHİD ECEVİT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Ürün ve Marka Yönetimi ; Tüketici Davranışları ; Pazarlama Araştırmaları, mecevit[at]bandirma.edu.tr, 89BA21984F340048
+
+304120, DOKTOR ÖĞRETİM ÜYESİ, MERİH TETİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Muhasebe, Yönetim ve Maliyet Muhasebesi  ; Finansal Muhasebe  ; Mali Tablo Analizi, mtetik[at]bandirma.edu.tr, 9814B99D59137E92
+
+232427, DOKTOR ÖĞRETİM ÜYESİ, MERVE ÇİLOĞLU YÖRÜBULUT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/İŞ HUKUKU VE SOSYAL GÜVENLİK HUKUKU ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri ; İş ve Sosyal Güvenlik Hukuku ; Çalışma Sosyolojisi, myorubulut[at]bandirma.edu.tr, A02389EEFB3595F9
+
+190905, DOKTOR ÖĞRETİM ÜYESİ, MUHAMMED EFİL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/ARAP DİLİ VE BELAGATI ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, Arap Dili ve Belâgati, mefil[at]bandirma.edu.tr, 470560AC0870ED07
+
+304541, DOKTOR ÖĞRETİM ÜYESİ, MUHAMMED MİLANİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/BİLGİSAYAR BİLİMLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, İnsan-Bilgisayar Etkileşimi ; Algoritmalar ve Hesaplama Kuramı ; Bilgi Güvenliği ve Kriptoloji, mmilani[at]bandirma.edu.tr, A5D8F28E621C44B6
+
+199562, DOKTOR ÖĞRETİM ÜYESİ, MUHAMMED EMİN KIZILAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İSLAMİ İLİMLER FAKÜLTESİ/TEMEL İSLAM BİLİMLERİ BÖLÜMÜ/İSLAM HUKUKU ANABİLİM DALI/, İlahiyat Temel Alanı, Temel İslam Bilimleri, İslam Hukuku, mkizilay[at]bandirma.edu.tr, 7A11CC01C7239DD7
+
+326380, DOKTOR ÖĞRETİM ÜYESİ, MUHAMMED FERİT DUMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/SOSYAL HİZMET VE DANIŞMANLIK BÖLÜMÜ/SOSYAL HİZMETLER PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, Sosyal Değişim ; Kent Sosyolojisi, mferitduman.fd[at]gmail.com, 15AE85968375E724
+
+114878, DOKTOR ÖĞRETİM ÜYESİ, MUHAMMED MUSTAFA TUNCER ÇALIŞKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/MUHASEBE VE FİNANSMAN ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Finansal Piyasalar ve Kurumlar, mcaliskan[at]bandirma.edu.tr, 75246D884F9D9828
+
+44509, DOKTOR ÖĞRETİM ÜYESİ, MUHAMMET ARUCU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR PROGRAMCILIĞI PR./, Fen Bilimleri ve Matematik Temel Alanı, Fizik, 46E625630FD4745F
+
+250351, DOKTOR ÖĞRETİM ÜYESİ, MUHAMMET KUTLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Ekonometri, Uygulamalı Mikro Ekonometri ; Uygulamalı Makro Ekonometri, muhammet.kutlu[at]outlook.com, 40B81F5FBDBF93DA
+
+11575, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), MUHAMMET BORA UZUNER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/ANATOMİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Anatomi, 5A63648D1D79842C
+
+47503, DOKTOR ÖĞRETİM ÜYESİ, MUHSİN BARAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/SİYASİ TARİH ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Ortadoğu Çalışmaları ; Uyuşmazlık Çözümü, AA52D2C82D6E7034
+
+26768, DOKTOR ÖĞRETİM ÜYESİ, MUSA YALMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/GIDA TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Gıda Bilimleri ve Mühendisliği, Gıda Bilimi ; Gıda Mikrobiyolojisi ; Süt Teknolojisi, myalman[at]bandirma.edu.tr, 2A54D6CC20673076
+
+306612, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA AKMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/TASARIM BÖLÜMÜ/GRAFİK TASARIMI PR./, Güzel Sanatlar Temel Alanı, Tasarım, Grafik Tasarımı ; İlustrasyon ; Görsel Tasarım, makman[at]bandirma.edu.tr, 060C19B66B6542A8
+
+250008, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA İSLAMOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İktisadi Düşünce, İktisat Felsefesi ; İktisat Sosyolojisi, mislamoglu[at]bandirma.edu.tr, 3C62DA8436422919
+
+303979, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA TÜRK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/ESKİÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Eskiçağ Tarihi, Yunan ve Roma Tarihi ; Eski Anadolu Tarihi ; Eski Önasya Tarihi, mturk[at]bandirma.edu.tr, BCC2368F6A10392C
+
+59280, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA ÇAĞATAY TOK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/HALKLA İLİŞKİLER VE REKLAMCILIK BÖLÜMÜ/HALKLA İLİŞKİLER VE REKLAMCILIK ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Açık ve Uzaktan Öğrenme, Uzaktan Öğretim Teknolojileri ; Materyal Geliştirme, mtok[at]bandirma.edu.tr, B16BA44CEEEB7D05
+
+147507, DOKTOR ÖĞRETİM ÜYESİ, MUZAFFER ŞENVELİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/ANESTEZİYOLOJİ VE REANİMASYON ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Anesteziyoloji ve Reanimasyon, msenveli[at]bandirma.edu.tr, 8FCFFE73D63EFF15
+
+301238, DOKTOR ÖĞRETİM ÜYESİ, MÜJDE AKSOY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/İŞ SAĞLIĞI VE GÜVENLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Hizmet Pazarlaması ; Pazarlama İletişimi ; Tüketici Davranışları, maksoy[at]bandirma.edu.tr, EF5FD6A8C662A806
+
+18549, DOKTOR ÖĞRETİM ÜYESİ, NAİME MERİÇ KONAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/BİYOİSTATİSTİK VE TIBBİ BİLİŞİM ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Biyoistatistik, mkonar[at]bandirma.edu.tr, C20CF4B3392D3BCC
+
+184118, DOKTOR ÖĞRETİM ÜYESİ, NART GÖRGÜ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/ÜROLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Üroloji, ngorgu[at]bandirma.edu.tr, 28C0A39F5A84ED22
+
+178854, DOKTOR ÖĞRETİM ÜYESİ, NERGİS KAYACAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/HALK SAĞLIĞI ANABİLİM DALI/, 202D5280479AAB30
+
+56433, DOKTOR ÖĞRETİM ÜYESİ, NESLİHAN ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ BÖLÜMÜ/ÇALIŞMA EKONOMİSİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve Endüstri İlişkileri, narslan[at]bandirma.edu.tr, EFA88DA749675ABC
+
+120905, DOKTOR ÖĞRETİM ÜYESİ, NEVZAT ÇALIŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/MUHASEBE VE VERGİ BÖLÜMÜ/MUHASEBE VE VERGİ UYGULAMALARI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Finans, Finansal Piyasalar ve Kurumlar   ; Bankacılık ; Finansal Risk Yönetimi, ncalis[at]bandirma.edu.tr, 46BA348FDB438F36
+
+376621, DOKTOR ÖĞRETİM ÜYESİ, NURAY DEMİR ÖZTÜRK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/ESKİ TÜRK DİLİ ANABİLİM DALI/, Filoloji Temel Alanı, Türk Dili, Yeni Türk Dili (Eski Anadolu- Osmanlı- Türkiye Türkçesi) ; Tarihi Kuzey Doğu Türk Dili (Harezm- Kıpçak- Çağatay) ; Eski Türk Dili (Orhun- Uygur- Karahanlı), demirnurayozturk[at]gmail.com, 6F674F1161E7E5F6
+
+106939, DOKTOR ÖĞRETİM ÜYESİ, NURCAN AKGÜL GÜNDOĞDU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/HALK SAĞLIĞI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Halk Sağlığı Hemşireliği, nr.akgul[at]gmail.com, 496DD538A7074B03
+
+114543, DOKTOR ÖĞRETİM ÜYESİ, NURİYE KURBETLİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/ANATOMİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Anatomi, nkurbetli[at]bandirma.edu.tr, CBDB4EAD249603D8
+
+265737, DOKTOR ÖĞRETİM ÜYESİ, OĞUZ DÜZGÜN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SOSYOLOJİ BÖLÜMÜ/TOPLUMSAL YAPI VE DEĞİŞME ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Felsefe, Modern Felsefe  ; Ahlak Felsefesi ; Devlet Felsefesi, DBAC1ACFC320F385
+
+327777, DOKTOR ÖĞRETİM ÜYESİ, OĞUZHAN DER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ İŞLETME MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Makine Mühendisliği, Üretim Teknolojileri ; Isı Transferi ; Kompozit Malzemeler, oder[at]bandirma.edu.tr, 546CF28299D59D77
+
+304618, DOKTOR ÖĞRETİM ÜYESİ, OĞUZHAN KIVRAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/BİLGİSAYAR PROGRAMCILIĞI PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Bilişim Sistemleri ; Teknoloji ve Yenilik Yönetimi ; Sistem Geliştirme, okivrak[at]bandirma.edu.tr, 5ABA6B87343AE961
+
+204640, DOKTOR ÖĞRETİM ÜYESİ, ONUR DÜNDAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/FİNANS BANKACILIK VE SİGORTACILIK BÖLÜMÜ/BANKACILIK VE SİGORTACILIK PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, İktisadi Düşünce, İktisat Sosyolojisi ; İktisat Felsefesi, onurdndr[at]gmail.com, 6DA08E85F78EE50E
+
+389089, DOKTOR ÖĞRETİM ÜYESİ, ONUR GÖZÜBÜYÜK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Sağlık Yönetimi, ogozubuyuk[at]bandirma.edu.tr, A66869911DE23C76
+
+25151, DOKTOR ÖĞRETİM ÜYESİ, ONUR SAYLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/ULAŞTIRMA HİZMETLERİ BÖLÜMÜ/DENİZ VE LİMAN İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, İnsan Kaynakları Yönetimi ; Deniz İşletmeciliği ; Örgütsel Davranış, osaylan[at]bandirma.edu.tr, FCE41C58BA3AE5A7
+
+59757, DOKTOR ÖĞRETİM ÜYESİ, ONURSAL ÇETİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRONİK ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Biyomedikal ; İşaret İşleme, onursal.cetin[at]gmail.com, E18CD84836B0EFF6
+
+278336, DOKTOR ÖĞRETİM ÜYESİ, ORHAN DUMAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/İLETİŞİM BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Dijital Pazarlama ; Ürün ve Marka Yönetimi ; Pazarlama İletişimi, oduman[at]bandirma.edu.tr, 340D5E4C07139E0C
+
+333811, DOKTOR ÖĞRETİM ÜYESİ, OSMAN SERAY ÖZKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MANYAS MESLEK YÜKSEKOKULU/MÜLKİYET KORUMA VE GÜVENLİK BÖLÜMÜ/ÖZEL GÜVENLİK VE KORUMA PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Örgütsel Davranış ; Yönetim Psikolojisi, oozkan[at]bandirma.edu.tr, 79B4FC347D2E6670
+
+233744, DOKTOR ÖĞRETİM ÜYESİ, ÖMER ASLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgi Güvenliği ve Kriptoloji ; Veri Madenciliği ; Bilgisayar ve İletişim Ağları, 477FAAD7FF5CA8C0
+
+104489, DOKTOR ÖĞRETİM ÜYESİ, ÖMER KARATAŞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/GENEL TÜRK TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Genel Türk Tarihi, Orta Asya Tarihi ; Türk Halkları ve Toplulukları  ; Türk Kültür Tarihi, okaratas[at]bandirma.edu.tr, BC735DCD7DBA91A1
+
+29022, DOKTOR ÖĞRETİM ÜYESİ, ÖMÜR KIZILGÖL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZCİLİK İŞLETMELERİ YÖNETİMİ BÖLÜMÜ/LİMAN VE GEMİ YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Muhasebe, Denetim ; Yönetim ve Maliyet Muhasebesi  ; İçdenetim, omurkizilgol[at]bandirma.edu.tr, 39778C95B8454288
+
+152953, DOKTOR ÖĞRETİM ÜYESİ, ÖZLEM ORHAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/MÜHENDİSLİK TEMEL BİLİMLERİ BÖLÜMÜ/MÜHENDİSLİK TEMEL BİLİMLERİ ANABİLİM DALI/, Fen Bilimleri ve Matematik Temel Alanı, Matematik, Uygulamalı Matematik, oorhan[at]bandirma.edu.tr, 345B56D0DB6D11F5
+
+237023, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), ÖZLEM PERSİL ÖZKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/TOPLUM BESLENMESİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, ozlempersil[at]bandirma.edu.tr, A8286929A9D83569
+
+34319, DOKTOR ÖĞRETİM ÜYESİ, ÖZLEM TEKİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/OTEL LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/TURİZM VE OTEL İŞLETMECİLİĞİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Turizm, Turizm Pazarlaması ; Turizm Planlaması  ; Turizm İşletmeciliği, ozlemtekin10[at]gmail.com, 5B828FBCBF6C49C3
+
+253270, DOKTOR ÖĞRETİM ÜYESİ, PELİN TOROS, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/HİSTOLOJİ VE EMBRİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Histoloji ve Embriyoloji, ptoros[at]bandirma.edu.tr, 1BAAA8BDFFE5B9B9
+
+195753, DOKTOR ÖĞRETİM ÜYESİ, PERİHAN ERKAN ALKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/TIBBİ MİKROBİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Tıbbi Mikrobiyoloji, pealkan[at]bandiram.edu.tr, 94E22D4030BC7C7D
+
+36048, DOKTOR ÖĞRETİM ÜYESİ, REYHAN BAHAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Tüketici Davranışları ; Dijital Pazarlama ; Hizmet Pazarlaması, reyhanbahari[at]gmail.com, 1DEB8136537093E7
+
+390158, DOKTOR ÖĞRETİM ÜYESİ, RIDVAN KAŞIKÇI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/YAKINÇAĞ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yakınçağ Tarihi, Osmanlı Tarihi ; Askeri Tarih ; Yenileşme Tarihi, rkasikci[at]bandirma.edu.tr, FB9D58F940FB0F46
+
+29125, DOKTOR ÖĞRETİM ÜYESİ, SABRİ ALKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ BÖLÜMÜ/SU ALTI TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Gemi Ana ve Yardımcı Makineleri ; Deniz Teknolojisi  ; Gemi İnşaatı, salkan[at]bandirma.edu.tr, 16A67596D05D65BB
+
+337690, DOKTOR ÖĞRETİM ÜYESİ, SAKİNE AKCAN EKİCİ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TARİH BÖLÜMÜ/OSMANLI MÜESSESELERİ VE MEDENİYETİ TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Osmanlı Kurumları ve Medeniyeti, Osmanlı Kültür ve Sanatı ; Osmanlı Merkez Teşkilatı ; Osmanlı Eğitim Tarihi, akcansakine[at]hotmail.com, A737E20835E67C98
+
+18940, DOKTOR ÖĞRETİM ÜYESİ, SALİH NACAR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK TESİSLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Güç Elektroniği ; Kontrol Teorisi ve Uygulamaları ; Bulanık Mantık, snacar[at]bandirma.edu.tr, F60DF14B130DBC87
+
+234085, DOKTOR ÖĞRETİM ÜYESİ, SALİH SEÇKİN EROL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ MAKİNELERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Gemi Makineleri İşletme Mühendisliği ; Gemi Ana ve Yardımcı Makineleri, serol[at]bandirma.edu.tr, 69FCA05DDEC2B69D
+
+43620, DOKTOR ÖĞRETİM ÜYESİ, SEDAT ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/BESLENME BİLİMLERİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, sarslan[at]bandirma.edu.tr, 1B04F2150D7F2C80
+
+283633, DOKTOR ÖĞRETİM ÜYESİ, SEDAT BAŞTUĞ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/DENİZ ULAŞTIRMA İŞLETME MÜHENDİSLİĞİ BÖLÜMÜ/DENİZ ULAŞTIRMA İŞLETME MÜHENDİSLİĞİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası Ticaret, Uluslararası Lojistik ; Uluslararası Pazarlama, sbastug[at]bandirma.edu.tr, B9EDA266B175DD2A
+
+326574, DOKTOR ÖĞRETİM ÜYESİ, SELEN SALLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/BANDIRMA MESLEK YÜKSEKOKULU/GIDA İŞLEME BÖLÜMÜ/ET VE ÜRÜNLERİ TEKNOLOJİSİ PR./, Mühendislik Temel Alanı, Gıda Bilimleri ve Mühendisliği, Et Teknolojisi ; Gıda Biyoteknolojisi ; Fermantasyon Teknolojisi, ssallan[at]bandirma.edu.tr, 15F004A9D452A7A9
+
+236828, DOKTOR ÖĞRETİM ÜYESİ, SEMİH KORKMAZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ/BİLGİSAYAR DONANIMI ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Elektromanyetik-Mikrodalga ve Anten Teknolojileri ; Optik- Fotonik ; Nanoteknoloji, semihkorkmaz[at]bandirma.edu.tr, 71DFCE8A74F57CD4
+
+53779, DOKTOR ÖĞRETİM ÜYESİ, SERCAN HATİPOĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/ÜRETİM YÖNETİMİ VE PAZARLAMA ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Pazarlama, Hizmet Pazarlaması ; Tüketici Davranışları ; Endüstriyel Pazarlama, 32B3919EF91E1337
+
+51992, DOKTOR ÖĞRETİM ÜYESİ, SERHAT KILIÇARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Veri Madenciliği ; Yapay Öğrenme ; Biyoenformatik, skilicarslan[at]bandirma.edu.tr, 3087FAC011B59B2A
+
+155338, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), SERHAT BERAT EFE, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ELEKTRİK MÜHENDİSLİĞİ BÖLÜMÜ/ELEKTRİK TESİSLERİ ANABİLİM DALI/, Mühendislik Temel Alanı, Elektrik-Elektronik Mühendisliği, Aydınlatma ; Elektrik Tesisleri ; Elektrik Enerjisi ve Güç Sistemleri, sefe[at]bandirma.edu.tr, 14535FD48B1939F6
+
+334998, DOKTOR ÖĞRETİM ÜYESİ, SERKAN NECATİ METİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SPOR BİLİMLERİ FAKÜLTESİ/ANTRENÖRLÜK EĞİTİMİ BÖLÜMÜ/ANTRENÖRLÜK EĞİTİMİ ANABİLİM DALI/, Spor Bilimleri Temel Alanı, Spor Bilimleri, Spor Yönetimi ; Spor Tarihi ; Rekreasyon, smetin[at]bandirma.edu.tr, 488BD6E210B0256A
+
+223620, DOKTOR ÖĞRETİM ÜYESİ, SERPİL ÇOLAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TERAPİ VE REHABİLİTASYON BÖLÜMÜ/FİZYOTERAPİ PR./, Sağlık Bilimleri Temel Alanı, Fizyoterapi ve Rehabilitasyon, serpilcolak[at]bandirma.edu.tr, ECE5DDF80DAB2EEB
+
+224164, DOKTOR ÖĞRETİM ÜYESİ, SERTAÇ ERCAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İŞLETME BÖLÜMÜ/YÖNETİM VE ORGANİZASYON ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Stratejik Yönetim, sertacercan[at]gmail.com, 4772289C90813B9F
+
+230173, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), SEZEN ARSLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/YABANCI DİLLER YÜKSEKOKULU/YABANCI DİLLER BÖLÜMÜ/YABANCI DİLLER ANABİLİM DALI/, Eğitim Bilimleri ve Öğretmen Yetiştirme Temel Alanı, Yabancı Dil Eğitimi, İngilizce, sezenarslan[at]bandirma.edu.tr, B58DFEE7587419F3
+
+199391, DOKTOR ÖĞRETİM ÜYESİ, SİBEL AY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/TÜRK DİLİ VE EDEBİYATI BÖLÜMÜ/ESKİ TÜRK EDEBİYATI ANABİLİM DALI/, Filoloji Temel Alanı, Klasik Türk Edebiyatı, Osmanlı Sahası Klasik Türk Edebiyatı ; Osmanlı Sahası Dışındaki Klasik Türk Edebiyatı, sibelay35[at]gmail.com, 2D4D4862F5A9720C
+
+124795, DOKTOR ÖĞRETİM ÜYESİ, SİNEM ATAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ/KENTLEŞME VE ÇEVRE SORUNLARI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yerel Yönetimler, Kent ve Çevre Politikaları, 66F719C43B2EFBD2
+
+230604, DOKTOR ÖĞRETİM ÜYESİ, SÜLEYMAN GÖKHAN TAŞKIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ/YAZILIM MÜHENDİSLİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Yapay Öğrenme ; Veri Madenciliği ; Yapay Zeka, taskinster[at]gmail.com, 168D9670749D0158
+
+254358, DOKTOR ÖĞRETİM ÜYESİ, ŞEYMA ŞAHİN KUTLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/İKTİSAT BÖLÜMÜ/İKTİSAT POLİTİKASI ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Makro İktisat, Gelişme Ekonomisi - Makro ; İstihdam ; Büyüme, ssahin[at]bandirma.edu.tr, C1C19079FE585E07
+
+350434, DOKTOR ÖĞRETİM ÜYESİ, ŞİRİN AKIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/İÇ HASTALIKLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, İç Hastalıkları, ssari[at]bandirma.edu.tr, C58B36124C2BBC07
+
+350092, DOKTOR ÖĞRETİM ÜYESİ, TAMER AKAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/GENEL CERRAHİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Genel Cerrahi, takay[at]bandirma.edu.tr, 75E62211B549589B
+
+44379, DOKTOR ÖĞRETİM ÜYESİ, TANER KALAYCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU/TIBBİ HİZMETLER VE TEKNİKLER BÖLÜMÜ/OPTİSYENLİK PR./, Fen Bilimleri ve Matematik Temel Alanı, Fizik, Malzeme Fiziği ; Nanoteknoloji ; Atom- Molekül ve Lazer Fiziği, tanerkalayci[at]bandirma.edu.tr, 35DF79A127A8F1A5
+
+185419, DOKTOR ÖĞRETİM ÜYESİ, TAYLAN ENGİN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ/ULAŞTIRMA MÜHENDİSLİĞİ BÖLÜMÜ/AKILLI ULAŞIM SİSTEMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, Yöneylem Araştırması ; Çok Kıstaslı Karar Verme ; İstatistiksel Analiz Ve Uygulamalar, tengin[at]bandirma.edu.tr, CB34745B70F537F0
+
+111801, DOKTOR ÖĞRETİM ÜYESİ, TUNA ÖNAL, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/HİSTOLOJİ VE EMBRİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Histoloji ve Embriyoloji, tonal[at]bandirma.edu.tr, 93D3172E2D846B2F
+
+47838, DOKTOR ÖĞRETİM ÜYESİ, TURGAY KÖROĞLU, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK FAKÜLTESİ/GEMİ İNŞAATI VE GEMİ MAKİNELERİ MÜHENDİSLİĞİ BÖLÜMÜ/GEMİ HİDROMEKANİĞİ ANABİLİM DALI/, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Gemilerde Enerji Verimliliği ; Gemilerde Enerji Ekonomisi ; Gemi Ana ve Yardımcı Makineleri, koroglu-t[at]hotmail.com, 8FD96D34A72BE29F
+
+118181, DOKTOR ÖĞRETİM ÜYESİ, TÜLAY SATI KIRKAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/RUH SAĞLIĞI VE HASTALIKLARI ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Ruh Sağlığı ve Hastalıkları, tkirkan[at]bandirma.edu.tr, 039C733E0FEE52C5
+
+250965, DOKTOR ÖĞRETİM ÜYESİ, UFUK AKIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/DAHİLİ TIP BİLİMLERİ BÖLÜMÜ/ADLİ TIP ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Adli Tıp, ufukakin[at]bandirma.edu.tr, 4B97F1DDA876FB10
+
+331113, DOKTOR ÖĞRETİM ÜYESİ, UFUK ELYİĞİT, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SANAT TARİHİ BÖLÜMÜ/TÜRK-İSLAM SANATLARI TARİHİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sanat Tarihi, Mimarlık Tarihi ; Kentsel Arkeoloji ; Kültürel ve Doğal Miras, uelyigit[at]bandirma.edu.tr, E5092F9676E0126D
+
+391037, DOKTOR ÖĞRETİM ÜYESİ, UĞUR ÖZDEMİR, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/CERRAHİ TIP BİLİMLERİ BÖLÜMÜ/ORTOPEDİ VE TRAVMATOLOJİ ANABİLİM DALI/, uozdemir[at]bandirma.edu.tr, 78F85BB3D8587ADD
+
+250080, DOKTOR ÖĞRETİM ÜYESİ, UMUT AYDIN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/ULUSLARARASI TİCARET VE LOJİSTİK BÖLÜMÜ/LOJİSTİK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Nicel Karar Yöntemleri, İstatistiksel Analiz Ve Uygulamalar ; Çok Kıstaslı Karar Verme, uaydin[at]bandirma.edu.tr, 6A77EF90D3C943D2
+
+250076, DOKTOR ÖĞRETİM ÜYESİ, ÜSTÜN ATAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/DENİZCİLİK MESLEK YÜKSEKOKULU/ULAŞTIRMA HİZMETLERİ BÖLÜMÜ/DENİZ VE LİMAN İŞLETMECİLİĞİ PR./, Mühendislik Temel Alanı, Deniz ve Gemi Mühendisliği, Deniz Ulaştırma Mühendisliği ; Deniz Ulaşımı ; Gemilerde Enerji Verimliliği, 2D137BBFB9EF84B2
+
+102829, DOKTOR ÖĞRETİM ÜYESİ, VELİ ÖZCAN BUDAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/GÖNEN MESLEK YÜKSEKOKULU/BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ/WEB TASARIMI VE KODLAMA PR./, Mühendislik Temel Alanı, Bilgisayar Bilimleri ve Mühendisliği, Bilgi Sistemleri ; Bilgisayar Yazılımı ; İnsan-Bilgisayar Etkileşimi, EE233165CC91FDF2
+
+323799, DOKTOR ÖĞRETİM ÜYESİ, YASEMİN ASLAN, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SAĞLIK YÖNETİMİ BÖLÜMÜ/SAĞLIK YÖNETİMİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim ve Strateji, Sağlık Kurumları Yönetimi, yaseminaslan[at]bandirma.edu.tr, A1F7F21777E29C77
+
+316681, DOKTOR ÖĞRETİM ÜYESİ, YASEMİN ERGÜL KUNDURACI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/BESLENME VE DİYETETİK BÖLÜMÜ/TOPLU BESLENME SİSTEMLERİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Beslenme ve Diyetetik, yasemin-ek[at]outlook.com, 360D541926A43989
+
+218318, DOKTOR ÖĞRETİM ÜYESİ, YASİN ERDURAK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Hizmet, yerdurak[at]bandirma.edu.tr, E96E44759E5735E9
+
+235395, DOKTOR ÖĞRETİM ÜYESİ, YASİN TURNA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ERDEK MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/YEREL YÖNETİMLER PR./, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yerel Yönetimler, Kent ve Çevre Politikaları, yturna[at]bandirma.edu.tr, E5007A1CD1D2D713
+
+235817, DOKTOR ÖĞRETİM ÜYESİ, YUSUF GÖRGÜLÜ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/TIP FAKÜLTESİ/TEMEL TIP BİLİMLERİ BÖLÜMÜ/TIBBİ MİKROBİYOLOJİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Tıbbi Mikrobiyoloji, ygorgulu[at]bandirma.edu.tr, 19A24A36BD8F1633
+
+35351, DOKTOR ÖĞRETİM ÜYESİ, YUSUF YILDIRIM, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/SİYASİ TARİH ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Siyasi Tarih, Türk Dış Politikası ; Siyasal Coğrafya ; Avrupa Tarihi, yyildirim[at]bandirma.edu.tr, 9C9520A7375A757F
+
+238482, DOKTOR ÖĞRETİM ÜYESİ, ZAFER MAŞLAKCI, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU/KİMYA VE KİMYASAL İŞLEME TEKNOLOJİLERİ BÖLÜMÜ/LABORATUVAR TEKNOLOJİSİ PR./, Fen Bilimleri ve Matematik Temel Alanı, Kimya, Teorik Kimya ; Fiziksel Kimya, zmaslakci[at]bandirma.edu.tr, A59CAA151F88D696
+
+60518, DOKTOR ÖĞRETİM ÜYESİ, ZEHRA NURDAN ATALAY, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ/SOSYOLOJİ BÖLÜMÜ/GENEL SOSYOLOJİ VE METODOLOJİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyoloji, İktisat Sosyolojisi ; Niteliksel Yöntemler ; Toplumsal Cinsiyet, natalay[at]bandirma.edu.tr, D831C2D6C145A038
+
+156113, DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent), ZEYNEP ACA, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/SOSYAL HİZMET BÖLÜMÜ/SOSYAL HİZMET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Sosyal Politika, Çalışma Ekonomisi ve İktisadi Demografi ; Dezavantajlı Gruplar, zaca[at]bandirma.edu.tr, C9252305383683EF
+
+59143, DOKTOR ÖĞRETİM ÜYESİ, ZEYNEP ARIÖZ, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ/ULUSLARARASI İLİŞKİLER BÖLÜMÜ/ULUSLARARASI SİYASET ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Uluslararası İlişkiler, Uluslararası Güvenlik ; Uluslararası Kurumlar ; Küreselleşme, zarioz[at]bandirma.edu.tr, 1CD5FFEBE9B1D633
+
+33552, DOKTOR ÖĞRETİM ÜYESİ, ZEYNEP ÖZER, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/ÖMER SEYFETTİN UYGULAMALI BİLİMLER FAKÜLTESİ/YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ/KARAR BİLİMLERİ ANABİLİM DALI/, Sosyal-Beşeri ve İdari Bilimler Temel Alanı, Yönetim Bilişim Sistemleri, Veri Yönetimi ; Bilişim Sistemleri ; Teknoloji ve Yenilik Yönetimi, 1CA39EAD5C1D2F35
+
+264381, DOKTOR ÖĞRETİM ÜYESİ, ZÜBEYDE EZGİ ERÇELİK, BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ/SAĞLIK BİLİMLERİ FAKÜLTESİ/HEMŞİRELİK BÖLÜMÜ/ÇOCUK SAĞLIĞI VE HASTALIKLARI HEMŞİRELİĞİ ANABİLİM DALI/, Sağlık Bilimleri Temel Alanı, Çocuk Sağlığı ve Hastalıkları Hemşireliği, 3B5F2E81ECC9BA34

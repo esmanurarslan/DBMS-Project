@@ -1,15 +1,135 @@
 import sqlite3
+
+# SQLite veritabanına bağlanma
+connection = sqlite3.connect('database.db')
+cursor = connection.cursor()
+
+queries = []
+
+# Tablo oluşturma
+create_table_query = '''
+CREATE TABLE IF NOT EXISTS academics (
+    id INT PRIMARY KEY,
+    title TEXT,
+    name TEXT,
+    departmentName TEXT,
+    universityName TEXT
+)
+'''
+cursor.execute(create_table_query)
+
+# Dosyayı okuma ve veritabanına ekleme
+with open("bandirma.txt", "r") as file:
+    lines = file.readlines()
+
+    for line in lines:
+        line = line.strip()
+        data = line.split(",")
+        if len(data) >= 4:
+            academic_id = data[0].strip()
+            title = data[1].strip()
+            name = data[2].strip()
+            department_uni = data[3].strip().split("/")
+            if len(department_uni) > 2:
+                university = department_uni[0].strip()
+
+                department = department_uni[2].strip()
+
+                # SQL sorgusu oluşturma
+                sql = "INSERT INTO academics (id, name, title, departmentName, universityName) VALUES (?, ?, ?, ?, ?)"
+                values = (academic_id, name, title, department, university)
+
+                sqlprint = "('{}','{}', '{}', '{}', '{}'),".format(
+                    academic_id, name, title, department, university)
+                queries.append(sqlprint)
+
+                # SQL sorgusunu çalıştırma
+                cursor.execute(sql, values)
+
+
+print("INSERT INTO academics (id, name, title, departmentName, universityName) VALUES ")
+for query in queries:
+    print(query)
+
+
+# Değişiklikleri kaydetme ve bağlantıyı kapatma
+connection.commit()
+connection.close()
+
+
+"""
+
+import sqlite3
+
+# SQLite veritabanına bağlanma
+connection = sqlite3.connect('database.db')
+cursor = connection.cursor()
+
+# Tablo oluşturma
+create_table_query = '''
+CREATE TABLE IF NOT EXISTS academics (
+    id INT PRIMARY KEY,
+    title TEXT,
+    name TEXT,
+    departmentName TEXT,
+    universityName TEXT
+)
+'''
+cursor.execute(create_table_query)
+
+queries = []
+
+# Dosyayı okuma ve veritabanına ekleme
+with open("bandirma.txt", "r") as file:
+    lines = file.readlines()
+
+    for line in lines:
+        line = line.strip()
+        data = line.split(",")
+
+        if len(data) == 6:
+            academic_id = data[0].strip()
+            title = data[1].strip()
+            name = data[2].strip()
+            university = data[3].strip()
+            faculty = data[4].strip()
+            department = data[5].strip()
+
+            # SQL sorgusu oluşturma
+            sql = "INSERT INTO academics (id, name, title, departmentName, universityName) VALUES (?, ?, ?, ?, ?)"
+            values = (academic_id, name, title, department, university)
+
+            sqlprint = "('{}','{}', '{}', '{}', '{}'),".format(
+                academic_id, name, title, department, university)
+            queries.append(sqlprint)
+
+            # SQL sorgusunu çalıştırma
+            cursor.execute(sql, values)
+print("INSERT INTO academics (id, name, title, departmentName, universityName) VALUES ")
+for query in queries:
+    print(query)
+
+# Değişiklikleri kaydetme ve bağlantıyı kapatma
+connection.commit()
+connection.close()
+
+
+"""
+
+"""
+import sqlite3
 import requests
 from bs4 import BeautifulSoup
 import re
 import pickle
 # https://yokatlas.yok.gov.tr/universite.php  sayfasında tü iniversiteler ve şehir bilgileri var
-
-headers = {
+url = 'https://www.stheaders = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
-url = 'https://www.studyinturkiye.gov.tr/StudyInTurkey/SiteMap'
+
+udyinturkiye.gov.tr/StudyInTurkey/SiteMap'
 response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.content, 'html.parser')
+
 
 # Şehirleri içeren <a> etiketlerini seç
 city_links = soup.select('a[href^="/StudyinTurkey/CityDetail"]')
@@ -99,3 +219,4 @@ print(results)
 
 # close database connection
 conn.close()
+"""
