@@ -13,7 +13,8 @@
     
 
 <?php
-$location = $_GET['location'];
+
+$pageNo = $_GET['pageNo'];
 // Veritabanı bağlantısı yapılması
 $servername = "localhost";  // Sunucu adı
 $username = "root";  // Veritabanı kullanıcı adı
@@ -27,11 +28,13 @@ if ($conn->connect_error) {
     die("Veritabanına bağlanılamadı: " . $conn->connect_error);
 }
 
-$stmt = $conn->prepare("SELECT depName FROM department WHERE uniName=?");
-$stmt->bind_param("s", $university);
 
+$stmt = $conn->prepare("SELECT depName FROM department WHERE pageNo = ?");
+$stmt->bind_param("i", $pageNo);
 $stmt->execute();
 $result = $stmt->get_result();
+
+
 
     if($result->num_rows>0)
     {
@@ -39,16 +42,17 @@ $result = $stmt->get_result();
         <table class="table table-striped">
         <tr>
             <th>Bölümler</th>
+            <th><?= $pageNo ?></th>
         </tr>
     
 
     <?php
         while ($row = $result->fetch_assoc()) {
-            $name = $row['depName'];
+            $depName = $row['depName'];
             ?>
             <tr>
-                    <td><?=$name?></td>
-                </tr>
+                <td><?= $depName ?></td>
+            </tr>
 
 
         <?php
@@ -58,6 +62,8 @@ $result = $stmt->get_result();
     else
     {
         echo "There is no available data";
+        
+        
     }
 
 $stmt->close();
