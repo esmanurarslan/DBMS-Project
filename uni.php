@@ -39,23 +39,28 @@ $result = $stmt->get_result();
     {
         ?>
         <table class="table table-striped">
-        <tr>
-            <th>Üniversite Adı</th>
-        </tr>
-    
-
+        <thead class="thead-dark" style="height: 5rem;">
+            <tr>
+                <th class="col-8 text-center font-weight-bold">Üniversite Adı</th>
+                <th class="col-4 font-weight-bold">Bölüm</th>
+            </tr>
+        </thead>
+        <tbody>
     <?php
         while ($row = $result->fetch_assoc()) {
             $name = $row['name'];
             $pageNo = $row['pageNo'];
             ?>
-            <tr>
-                <td>
-                    <?=$name?> <button onclick="goToDepartmentPage('<?=$pageNo?>')" class="btn btn-primary">Bölümler</button>
+            <tr style="height: 5rem;">
+                <td class="font-weight-bold col-8 align-middle" style="padding-left: 18%;">
+                    <?=$name?> 
+                </td>
+                <td class="align-middle">
+                    <button onclick="goToDepartmentPage('<?=$pageNo?>')" class="btn btn-info col-4">Bölümler</button>
                 </td>
             </tr>
 
-
+        </tbody>
         <?php
         
         }

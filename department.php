@@ -40,21 +40,22 @@ $result = $stmt->get_result();
     {
         ?>
         <table class="table table-striped">
-        <tr>
-            <th>Bölümler</th>
-            <th><?= $pageNo ?></th>
-        </tr>
-    
-
+          <thead class="thead-dark" style="height: 5rem;">
+            <tr>
+                <th class="font-weight-bold" style="padding-left: 20%;">Bölümler</th>
+                
+            </tr>
+          </thead>
+          <tbody>
     <?php
         while ($row = $result->fetch_assoc()) {
             $depName = $row['depName'];
             ?>
-            <tr>
-                <td><?= $depName ?></td>
+            <tr style="height: 5rem;">
+                <td class="font-weight-bold col-8 align-middle" style="padding-left: 20%;"><?= $depName ?></td>
             </tr>
 
-
+          </tbody>
         <?php
         
         }
