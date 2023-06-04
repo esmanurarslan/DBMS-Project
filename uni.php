@@ -47,7 +47,9 @@ $result = $stmt->get_result();
             $name = $row['name'];
             ?>
             <tr>
-                <td><?=$name?> <button onclick="department.php">Bölümler</button></td>
+                <td>
+                    <?=$name?> <a href="department.php?university=<?=$name?>" class="btn btn-primary">Bölümler</a>
+                </td>
             </tr>
 
 
@@ -61,7 +63,7 @@ $result = $stmt->get_result();
     }
 
 $stmt->close();
-
+$conn->close();
 ?>
 </body>
 </html>

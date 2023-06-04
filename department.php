@@ -27,7 +27,8 @@ if ($conn->connect_error) {
     die("Veritabanına bağlanılamadı: " . $conn->connect_error);
 }
 
-$stmt = $conn->prepare("SELECT depName FROM department WHERE uniName='%$name%' ");
+$stmt = $conn->prepare("SELECT depName FROM department WHERE uniName=?");
+$stmt->bind_param("s", $university);
 
 $stmt->execute();
 $result = $stmt->get_result();
@@ -46,8 +47,8 @@ $result = $stmt->get_result();
             $name = $row['depName'];
             ?>
             <tr>
-                <td ><?=$name?> <button onclick="window.location.href='department.php'">Bölümler</button></td>
-            </tr>
+                    <td><?=$name?></td>
+                </tr>
 
 
         <?php
@@ -60,7 +61,7 @@ $result = $stmt->get_result();
     }
 
 $stmt->close();
-
+$conn->close();
 ?>
 </body>
 </html>
