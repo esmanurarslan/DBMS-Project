@@ -44,6 +44,7 @@ $result = $stmt->get_result();
           <thead class="thead-dark" style="height: 5rem;">
             <tr>
                 <th class="font-weight-bold" style="padding-left: 20%;">Akademisyenler</th>
+                <th class="font-weight-bold" style="padding-left: 20%;"></th>
                 
             </tr>
           </thead>

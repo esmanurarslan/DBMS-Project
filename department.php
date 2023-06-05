@@ -43,6 +43,7 @@ $result = $stmt->get_result();
           <thead class="thead-dark" style="height: 5rem;">
             <tr>
                 <th class="font-weight-bold" style="padding-left: 20%;">Bölümler</th>
+                <th class="col-4 font-weight-bold"></th>
                 
             </tr>
           </thead>
@@ -53,11 +54,11 @@ $result = $stmt->get_result();
             ?>
             <tr style="height: 5rem;">
                 <td class="font-weight-bold col-8 align-middle" style="padding-left: 20%;"><?= $depName ?></td>
-            </tr>
-            <td class="align-middle">
+            
+                <td class="align-middle">
                     <button onclick="goToAcademicsPage('<?=$depName?>')" class="btn btn-info col-4">Akademisyenler</button>
                 </td>
-
+            </tr>
           </tbody>
         <?php
         
