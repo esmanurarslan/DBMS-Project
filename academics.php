@@ -14,7 +14,7 @@
 
 <?php
 
-$pageNo = $_GET['pageNo'];
+$depName = $_GET['departmentName'];
 // Veritabanı bağlantısı yapılması
 $servername = "localhost";  // Sunucu adı
 $username = "root";  // Veritabanı kullanıcı adı
@@ -29,8 +29,9 @@ if ($conn->connect_error) {
 }
 
 
-$stmt = $conn->prepare("SELECT depName FROM department WHERE pageNo = ?");
-$stmt->bind_param("i", $pageNo);
+$stmt = $conn->prepare("SELECT title,name FROM academics WHERE departmentName COLLATE utf8_general_ci LIKE ?");
+$depName = strtoupper('%'.$depName.'%');
+$stmt->bind_param("s", $depName);
 $stmt->execute();
 $result = $stmt->get_result();
 
@@ -42,21 +43,19 @@ $result = $stmt->get_result();
         <table class="table table-striped">
           <thead class="thead-dark" style="height: 5rem;">
             <tr>
-                <th class="font-weight-bold" style="padding-left: 20%;">Bölümler</th>
+                <th class="font-weight-bold" style="padding-left: 20%;">Akademisyenler</th>
                 
             </tr>
           </thead>
           <tbody>
     <?php
         while ($row = $result->fetch_assoc()) {
-            $depName = $row['depName'];
+            $title = $row['title'];
+            $name=$row['name'];
             ?>
             <tr style="height: 5rem;">
-                <td class="font-weight-bold col-8 align-middle" style="padding-left: 20%;"><?= $depName ?></td>
+                <td class="font-weight-bold col-8 align-middle" style="padding-left: 20%;"><?= $title." ".$name ?></td>
             </tr>
-            <td class="align-middle">
-                    <button onclick="goToAcademicsPage('<?=$depName?>')" class="btn btn-info col-4">Akademisyenler</button>
-                </td>
 
           </tbody>
         <?php
@@ -73,11 +72,5 @@ $result = $stmt->get_result();
 $stmt->close();
 $conn->close();
 ?>
-<script>
-        function goToAcademicsPage(depName) {
-            var url = "academics.php?departmentName=" + encodeURIComponent(depName);
-            window.open(url, "_blank");
-        }
-    </script>
 </body>
 </html>
