@@ -23,6 +23,7 @@ Before Normalization
 
 
 After normalization
+
 ![image](https://github.com/esmanurarslan/DBMS-Project/assets/96125581/cbb75b47-d35d-4dca-8c31-0c83fa923ad6)
 
  
