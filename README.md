@@ -2,6 +2,9 @@
 PROJECT REPORT : CampusAtlas
 
 Team Members
+esmanurarslan
+EslemKurt
+SevvalAycan
 
 
 In this project, we tried to create a database on the universities in Turkey and the departments they have. Since we used real data, we continued with Bandırma University in the tables where more detailed information is given. 
