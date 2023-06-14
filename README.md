@@ -1,7 +1,7 @@
 # DBMS-Project
 PROJECT REPORT : CampusAtlas
 
-Team Members
+Team Members :
 esmanurarslan
 EslemKurt
 SevvalAycan
